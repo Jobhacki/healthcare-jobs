@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>55,904</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>54,060</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-17 10:16 UTC</sub>
+<sub>Snapshot 2026-11-17 12:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,22 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**55,904 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 10:16 UTC.** Apply links go to the employer's career page or hiring system.
+**54,060 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| CLINICAL ASSISTANT | ADP employer 8802c141 | Englewood, NJ, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8802c141-7774-4099-8662-5e95ce71ab54&ccId=19000101_000001&jobId=968550&lang=en_US&source=CC2) |
+| Radiologic Technologist - Rad-Diagnostic | uvmhealth | Plattsburgh, NY |  | 2026-11-17 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/cvph/job/Plattsburgh-NY/Radiologic-Technologist---Rad-Diagnostic_R0091824) |
+| Medical Technologist - Lab-Core Lab | uvmhealth | Plattsburgh, NY |  | 2026-11-17 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/cvph/job/Plattsburgh-NY/Medical-Technologist---Lab-Core-Lab_R0091841) |
+| Pharmacy Lead Technician | CVS Health | TX - McKinney |  | 2026-11-17 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---McKinney/Pharmacy-Lead-Technician_R1103740) |
+| Pharmacy Lead Technician | CVS Health | FL - Tallahassee |  | 2026-11-17 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Tallahassee/Pharmacy-Lead-Technician_R1105094) |
+| Patient Care Coordinator | urpt | Sugar Hill, GA |  | 2026-11-17 | [Apply](https://yourfuture.urpt.com/job/5297809007/?gh_jid=5297809007) |
+| Physical Therapy Technician - Part-Time | urpt | Villa Rica, GA |  | 2026-11-17 | [Apply](https://yourfuture.urpt.com/job/5297837007/?gh_jid=5297837007) |
+| Patient Care Coordinator | urpt | Murfreesboro, TN |  | 2026-11-17 | [Apply](https://yourfuture.urpt.com/job/5297825007/?gh_jid=5297825007) |
+| Pre-Placement Nurse Supervisor | City of New York | New York City, NY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898226) |
+| Public Health Nurse, Bureau of School Health | City of New York | New York City, NY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898536) |
+| DIETITIAN | City of New York | East Elmhurst, NY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898696) |
 | Radiologic Technologist: X-Ray $70hr - FlexStaff | Northwell Health | Mount Kisco, Westchester, United States |  | 2026-11-17 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204395) |
 | Radiologic Technologist: X-Ray $70hr - FlexStaff | Northwell Health | New York, New York, United States |  | 2026-11-17 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204394) |
 | Radiologic Technologist: CT $80hr - FlexStaff | Northwell Health | Rhinebeck, Dutchess, United States |  | 2026-11-17 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204391) |
@@ -62,8 +73,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Phlebotomist | Labcorp | Wilmington DE |  | 2026-11-17 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Wilmington-DE/Phlebotomist_2633277) |
 | Phlebotomist - Per Diem | Labcorp | Salisbury MD |  | 2026-11-17 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Salisbury-MD/Phlebotomist---Per-Diem_2634978) |
 | Phlebotomist - Per Diem | Labcorp | Salisbury MD |  | 2026-11-17 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Salisbury-MD/Phlebotomist---Per-Diem_2632946) |
-| Senior Nosologist – ICD-10 Mortality Coding QC Lead | Akicita Cyber | Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/akicita-cyber/47832644-bdbd-4980-86d6-2070b10e376d) |
-| Mortality Coder / Nosologist – ICD-10 Cause of Death | Akicita Cyber | Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/akicita-cyber/6b1c143f-40c1-4d0a-966a-3424b981c261) |
 | Patient Access Ops Coordinator | Northwestern Memorial Healthcare | Chicago, IL, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161940799) |
 | Patient Access Specialist - Full Time Nights | Northwestern Memorial Healthcare | Chicago, IL, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161940950) |
 | RRT Traveler-MMC | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016894558) |
@@ -71,10 +80,27 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Patient Access Advocate, Part-time Nights | IntuitiveHealth1 | Bowling Green, KY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/IntuitiveHealth1/3743990016893716) |
 | Independent Living Specialist - Float | Dungarvin | Burnsville, MN, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000161958794) |
 | Direct Support Professional (DSP) / Caregiver | Dungarvin | Colorado Springs, CO, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000161991459) |
+| CNA Pediatric Home Health | Angels of Care Pediatric Home Health | New Castle, PA, United States |  | 2026-11-16 | [Apply](https://jobs.jobvite.com/angelsofcare/job/ouz6Afwt) |
+| CNA Pediatric Home Health | Angels of Care Pediatric Home Health | Lebanon, PA, United States |  | 2026-11-16 | [Apply](https://jobs.jobvite.com/angelsofcare/job/oUy6AfwS) |
+| CNA Pediatric Home Health | Angels of Care Pediatric Home Health | Allentown, PA, United States |  | 2026-11-16 | [Apply](https://jobs.jobvite.com/angelsofcare/job/ovz6Afwu) |
+| SCHOOL BASED CLINICIAN I | Catholic Charities Finger Lakes | Horseheads, NY |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668983) |
+| Medical Assistant - Part Time | Integrity Care Group | Chickasha, OK |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667464) |
+| Clinic Lead - Full Time | Integrity Care Group | Altus, OK |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667463) |
+| Clinic Lead - Full Time | Integrity Care Group | Chickasha, OK |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667457) |
+| CT Technologist - Full Time | Ellenville Regional Hospital | Ellenville, NY |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4669093) |
+| Medical Interpreter/ Program Assistant – Spanish speaking | HEALTH IMPERATIVES INC | Nantucket, MA |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4669640) |
+| Student Radiologic Technologist | Jordan Valley Health | Springfield, MO |  | 2026-11-16 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663901) |
+| ABA Therapist (BT/RBT) FULL-TIME DAYS (Center Based) | Advancing Beyond the Spectrum | Eldersburg, MD, US |  | 2026-11-16 | [Apply](https://advancing-beyond-the-spectrum.breezy.hr/p/20f7c44f1cbb-aba-therapist-bt-rbt-full-time-days-center-based) |
+| B-CPT-11236 Bilingual Patient Care Coordination VA | 20four7VA | Worldwide |  | 2026-11-16 | [Apply](https://20four7va.breezy.hr/p/d2ccf5a2f1de-b-cpt-11236-bilingual-patient-care-coordination-va) |
+| Patient Financial Coordinator | ADP employer 8802c141 | South Portland, ME, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8802c141-7774-4099-8662-5e95ce71ab54&ccId=19000101_000001&jobId=968520&lang=en_US&source=CC2) |
+| Patient Billing Coordinator - Hybrid | ADP employer 8802c141 | Basking Ridge, NJ, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8802c141-7774-4099-8662-5e95ce71ab54&ccId=19000101_000001&jobId=968525&lang=en_US&source=CC2) |
+| Med Tech/RA (Part-Time)(1st Shift) - Navion of Rocky Mount | Navion Senior Solutions | Rocky Mount, North Carolina, US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/8102FDF0DF) |
+| Med Tech (Part-Time)(3rd Shift) - Mebane Ridge | Navion Senior Solutions | Mebane, North Carolina, US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/AE32B4B476) |
+| Med Tech (Part-Time)(2nd Shift) - Mebane Ridge | Navion Senior Solutions | Mebane, North Carolina, US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/0287D07172) |
+| Clinician - Detroit | ppmi | Detroit, MI |  | 2026-11-16 | [Apply](https://jobs.lever.co/ppmi/ca583a6f-3bc7-430f-ae88-95e23ffe8d5b) |
 | Advanced Practice Provider, Vascular Surgery Clinic | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-16 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=988542&lang=en) |
 | OR Radiologic/X-Ray Technologist, 10K Bonus | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-16 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=981601&lang=en) |
 | Clinical Staff Pharmacist, Infusion - Richardson, TX | UT Southwestern Medical Center | Richardson, TX, US |  | 2026-11-16 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=986348&lang=en) |
-| Traveling Dental Assistant | ADP employer 7821db1d | Sanford, NC, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7821db1d-efa6-440f-a7e7-291622846f9c&ccId=19000101_000001&jobId=561962&lang=en_US&source=CC2) |
 | Patient Registration Specialist - OBGYN | Baptist Health - Central Alabama | Central Alabama Women's Care - Central |  | 2026-11-16 | [Apply](https://baptistfirst.wd12.myworkdayjobs.com/en-US/baptistfirst/job/Central-Alabama-Womens-Care---Central/Patient-Registration-Specialist_JR107616) |
 | Senior Clinical Monitoring Lead | abbott | 6 Locations |  | 2026-11-16 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States-of-America--Remote/Senior-Clinical-Monitoring-Lead_31167701-1) |
 | Clinical Lab Scientist I - 2nd Shift | abbott | United States &gt; Madison : 1 Exact Lane |  | 2026-11-16 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Madison--1-Exact-Lane/Clinical-Lab-Scientist-I---2nd-Shift_31167630-1) |
@@ -179,32 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Patient Care Associate (PCA) - 5 SE Neuro ICU - St. Elizabeth Youngstown Hospit... | easyservice | Youngstown, OH |  | 2026-11-16 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Youngstown-OH/Patient-Care-Associate--PCA----5-SE-Neuro-ICU---St-Elizabeth-Youngstown-Hospital_R283176-1) |
 | Respiratory Field Reimbursement Regional Senior Manager, Mid Atlantic | amgen | 2 Locations |  | 2026-11-16 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---North-Carolina---Raleigh/Respiratory-Field-Reimbursement-Regional-Senior-Manager--Mid-Atlantic_R-261281) |
 | Respiratory Field Reimbursement Senior Manager, Southeast | amgen | 2 Locations |  | 2026-11-16 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Georgia---Atlanta/Respiratory-Field-Reimbursement-Senior-Manager--Southeast_R-261203) |
-| Respiratory Field Reimbursement Regional Senior Manager, South Central | amgen | 5 Locations |  | 2026-11-16 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Tennessee---Chattanooga/Respiratory-Field-Reimbursement-Regional-Senior-Manager---South-Central_R-261202) |
-| Pharmacy Intern | brownhealth | Rhode Island Hospital |  | 2026-11-16 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Pharmacy-Intern_JR-116154) |
-| Clinical Educator | freseniusmedicalcare | AZ203 FMCNA Westgate Home - Clinic |  | 2026-11-16 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/AZ203-FMCNA-Westgate-Home---Clinic/Clinical-Educator_R0277523) |
-| Patient Care Technician - PCT CCHT - Dialysis | freseniusmedicalcare | Woodbury, NJ |  | 2026-11-16 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Woodbury-NJ/Outpatient-Registered-Nurse---RN---Dialysis_R0277873) |
-| Patient Care Technician - PCT | freseniusmedicalcare | Marion, OH |  | 2026-11-16 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Marion-OH/Patient-Care-Technician---PCT_R0277986) |
-| New England Baptist Hospital-Telemetry RN-Per Diem | bilh | New England Baptist Hospital |  | 2026-11-16 | [Apply](https://bilh.wd1.myworkdayjobs.com/en-US/external/job/New-England-Baptist-Hospital/New-England-Baptist-Hospital-Telemetry-RN-Per-Diem_JR103631) |
-| CNA | pacs |  |  | 2026-11-16 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/The-Park-In-Plano/CNA_JR189967) |
-| Occupational Therapist | pacs |  |  | 2026-11-16 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/The-Park-In-Plano/Occupational-Therapist_JR190022) |
-| (USA) Staff Pharmacist | Walmart | Bluefield, VA |  | 2026-11-16 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bluefield-VA/XMLNAME--USA--Staff-Pharmacist_R-2706508) |
-| Staff Pharmacist - $25,000 Sign On Bonus Available | Walmart | (USA) MI CADILLAC 01432 WM SUPERCENTER |  | 2026-11-16 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MI-CADILLAC-01432-WM-SUPERCENTER/Staff-Pharmacist_R-2676513-2) |
-| Medical Assistant/Patient Care Technician - Endocrinology Clinic | Sanford Health | ND, Bismarck |  | 2026-11-16 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/ND-Bismarck/Medical-Assistant-Patient-Care-Technician---Endocrinology-Clinic_R-0281668) |
-| RN, Outpatient - Urgent Care | Sanford Health | WI, Lake Hallie |  | 2026-11-16 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-Lake-Hallie/RN--Outpatient---Urgent-Care_R-0279838) |
-| RN Case Manager - Home Health - FT | Sanford Health | ND, Fargo |  | 2026-11-16 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/ND-Fargo/RN-Case-Manager---Home-Health---FT_R-0281116) |
-| Pharmacy Intern | CVS Health | OH - Hinckley |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Hinckley/Pharmacy-Intern_R1105142) |
-| Pharmacy Intern | CVS Health | NJ - Edgewater |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Edgewater/Pharmacy-Intern_R1105141) |
-| Pharmacy Intern | CVS Health | 02506 - Rhode Island CVS Pharmacy, L.L.C. |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/02506---Rhode-Island-CVS-Pharmacy-LLC/Pharmacy-Intern_R1105140) |
-| Clinic RN, LPN or CMA | Avera Health | Cresco, IA |  | 2026-11-16 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Cresco-IA/Clinic-RN--LPN-or-CMA_R-260031749) |
-| Pharmacy Technician | Avera Health | 2 Locations |  | 2026-11-16 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Marshall-MN/Pharmacy-Technician_R-260031459) |
-| Certified Nursing Assistant II (CNAII):MCK Extended Care | Avera Health | Sioux Falls, SD |  | 2026-11-16 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Sioux-Falls-SD/Certified-Nursing-Assistant-II--CNAII--MCK-Extended-Care_R-260019968) |
-| Medical Assistant - Abington Primary Care - Abington, PA | Jefferson Health | Montgomery County, PA |  | 2026-11-16 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Montgomery-County-PA/Medical-Assistant---Abington-Primary-Care---Abington--PA_REQ-0039925-1) |
-| Medical Assistant Float - Women's Healthcare Group - Newtown & Feasterville, PA... | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-16 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Medical-Assistant-Float---Women-s-Healthcare-Group---Newtown---Feasterville--PA--Bucks-County-_REQ-0039400-1) |
-| Medical Assistant - Family Practice - Feasterville, PA | Jefferson Health | Bucks County, PA |  | 2026-11-16 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Bucks-County-PA/Medical-Assistant---Family-Practice---Feasterville--PA_REQ-0039294) |
-| Dental Assistant 2 | University of Washington | Seattle, WA |  | 2026-11-16 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Dental-Assistant-2_REQ-0000138074) |
-| Medical Director National OP Medicare | Humana | Remote Nationwide |  | 2026-11-16 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Medical-Director-National-OP-Medicare_R-437053) |
-| Provider Contracting Professional - Behavioral Health/Medicaid | Humana | Remote Nationwide |  | 2026-11-16 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Provider-Contracting-Professional---Behavioral-Health-Medicaid_R-437015) |
-| Medical Director - Claims | Humana | Remote Nationwide |  | 2026-11-16 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Medical-Director---Claims_R-437463) |
 <!-- JOBS_TABLE_END -->
 
 <details>
