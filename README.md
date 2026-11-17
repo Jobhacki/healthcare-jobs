@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>29,138</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>55,904</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-17</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-17 08:15 UTC</sub>
+<sub>Snapshot 2026-11-17 10:16 UTC</sub>
 
 </div>
 
@@ -50,16 +50,20 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**29,138 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 08:15 UTC.** Apply links go to the employer's career page or hiring system.
+**55,904 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-17 10:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Medical Assistant | ADP employer 7384ed08 | St. Petersburg, FL, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7384ed08-8af0-4f7c-a26b-e07d0ac7f60f&ccId=19000101_000001&jobId=675325&lang=en_US&source=CC2) |
+| Radiologic Technologist: X-Ray $70hr - FlexStaff | Northwell Health | Mount Kisco, Westchester, United States |  | 2026-11-17 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204395) |
+| Radiologic Technologist: X-Ray $70hr - FlexStaff | Northwell Health | New York, New York, United States |  | 2026-11-17 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204394) |
+| Radiologic Technologist: CT $80hr - FlexStaff | Northwell Health | Rhinebeck, Dutchess, United States |  | 2026-11-17 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204391) |
 | Pharmacy Pre-Grad Intern - WM | Walmart | (USA) IN PLAINFIELD 06470 NEIGHBORHOOD MARKET |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-PLAINFIELD-06470-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2554207) |
 | Phlebotomist | Labcorp | Wilmington DE |  | 2026-11-17 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Wilmington-DE/Phlebotomist_2633277) |
 | Phlebotomist - Per Diem | Labcorp | Salisbury MD |  | 2026-11-17 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Salisbury-MD/Phlebotomist---Per-Diem_2634978) |
 | Phlebotomist - Per Diem | Labcorp | Salisbury MD |  | 2026-11-17 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Salisbury-MD/Phlebotomist---Per-Diem_2632946) |
+| Senior Nosologist – ICD-10 Mortality Coding QC Lead | Akicita Cyber | Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/akicita-cyber/47832644-bdbd-4980-86d6-2070b10e376d) |
+| Mortality Coder / Nosologist – ICD-10 Cause of Death | Akicita Cyber | Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/akicita-cyber/6b1c143f-40c1-4d0a-966a-3424b981c261) |
 | Patient Access Ops Coordinator | Northwestern Memorial Healthcare | Chicago, IL, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161940799) |
 | Patient Access Specialist - Full Time Nights | Northwestern Memorial Healthcare | Chicago, IL, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000161940950) |
 | RRT Traveler-MMC | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016894558) |
@@ -67,22 +71,15 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Patient Access Advocate, Part-time Nights | IntuitiveHealth1 | Bowling Green, KY, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/IntuitiveHealth1/3743990016893716) |
 | Independent Living Specialist - Float | Dungarvin | Burnsville, MN, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000161958794) |
 | Direct Support Professional (DSP) / Caregiver | Dungarvin | Colorado Springs, CO, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000161991459) |
-| Senior Nosologist – ICD-10 Mortality Coding QC Lead | Akicita Cyber | Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/akicita-cyber/47832644-bdbd-4980-86d6-2070b10e376d) |
-| Mortality Coder / Nosologist – ICD-10 Cause of Death | Akicita Cyber | Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/akicita-cyber/6b1c143f-40c1-4d0a-966a-3424b981c261) |
-| Pharmacy Pre-Grad Intern - WM | Walmart | (USA) WA LACEY 04757 NEIGHBORHOOD MARKET |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-WA-LACEY-04757-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2656116) |
-| Pharmacy Pre-Grad Intern - WM | Walmart | (USA) KY ASHLAND 01426 WM SUPERCENTER |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-KY-ASHLAND-01426-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2659061-1) |
-| Study Physician - Medical Director, Neuroimmunology, Immunology, Biopharmaceuti... | astrazeneca | US - Cambridge Kendall SQ - MA |  | 2026-11-17 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Cambridge-Kendall-SQ---MA/Study-Physician--Neuroinflammation--Immunology-Cell-Therapy_R-263178) |
-| Registered Dental Assistant | ADP employer 695db8f0 | San Jose, CA, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=695db8f0-3d9f-40f0-b68c-296ae057c44f&ccId=19000101_000001&jobId=572078&lang=en_US&source=CC2) |
-| Registered Dental Assistant | ADP employer 695db8f0 | Lynwood, CA, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=695db8f0-3d9f-40f0-b68c-296ae057c44f&ccId=19000101_000001&jobId=572079&lang=en_US&source=CC2) |
-| Dental Assistant | ADP employer 695db8f0 | Lynwood, CA, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=695db8f0-3d9f-40f0-b68c-296ae057c44f&ccId=19000101_000001&jobId=572080&lang=en_US&source=CC2) |
-| Clinical Director | ICBD | Nashua, New Hampshire, US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/4CA6C4A5DD) |
-| Patient Care Coordinator (Remote) / USA | HireHawk | US |  | 2026-11-16 | [Apply](https://apply.workable.com/j/6AE231AE20) |
+| Advanced Practice Provider, Vascular Surgery Clinic | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-16 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=988542&lang=en) |
+| OR Radiologic/X-Ray Technologist, 10K Bonus | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-16 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=981601&lang=en) |
+| Clinical Staff Pharmacist, Infusion - Richardson, TX | UT Southwestern Medical Center | Richardson, TX, US |  | 2026-11-16 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=986348&lang=en) |
+| Traveling Dental Assistant | ADP employer 7821db1d | Sanford, NC, US |  | 2026-11-16 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7821db1d-efa6-440f-a7e7-291622846f9c&ccId=19000101_000001&jobId=561962&lang=en_US&source=CC2) |
 | Patient Registration Specialist - OBGYN | Baptist Health - Central Alabama | Central Alabama Women's Care - Central |  | 2026-11-16 | [Apply](https://baptistfirst.wd12.myworkdayjobs.com/en-US/baptistfirst/job/Central-Alabama-Womens-Care---Central/Patient-Registration-Specialist_JR107616) |
 | Senior Clinical Monitoring Lead | abbott | 6 Locations |  | 2026-11-16 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States-of-America--Remote/Senior-Clinical-Monitoring-Lead_31167701-1) |
 | Clinical Lab Scientist I - 2nd Shift | abbott | United States &gt; Madison : 1 Exact Lane |  | 2026-11-16 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Madison--1-Exact-Lane/Clinical-Lab-Scientist-I---2nd-Shift_31167630-1) |
 | Clinical Lab Scientist I - Weekend PM | abbott | United States &gt; Madison : 1 Exact Lane |  | 2026-11-16 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Madison--1-Exact-Lane/Clinical-Lab-Scientist-I---Weekend-PM_31167645-1) |
 | 0-5 Senior Clinical Supervisor | childrensinstitute | Los Angeles |  | 2026-11-16 | [Apply](https://childrensinstitute.wd5.myworkdayjobs.com/en-US/cii/job/Los-Angeles/XMLNAME-0-5-Senior-Clinical-Supervisor_JR101457) |
-| Health/Medical Preparedness Coordinator | lancastercountypa | Emergency Management-100 Champ Blvd, Manheim, PA |  | 2026-11-16 | [Apply](https://lancastercountypa.wd12.myworkdayjobs.com/en-US/lanco/job/Emergency-Management-100-Champ-Blvd-Manheim-PA/Health-Medical-Preparedness-Coordinator_JR-2026-558) |
 | Clinic RN, LPN, CMA- Walk In Clinic .45 FTE 1st shift | waverlyhealthcenter | Waverly, IA |  | 2026-11-16 | [Apply](https://waverlyhealthcenter.wd12.myworkdayjobs.com/en-US/whc/job/Waverly-IA/Clinic-RN--LPN--CMA--Walk-In-Clinic-45-FTE-1st-shift_JR100465) |
 | Clinical Assistant/Associate Professor 12 Months, Department of Occupational Th... | kean | Union, New Jersey |  | 2026-11-16 | [Apply](https://kean.wd503.myworkdayjobs.com/en-US/kean/job/Union-New-Jersey/Clinical-Assistant-Associate-Professor-12-Months--Department-of-Occupational-Therapy--Spring-2027_R4721) |
 | Medical Director - Roadrunner Animal Hospital | aspendental | Peoria, Arizona |  | 2026-11-16 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/azpetvet/job/Peoria-Arizona/Medical-Director---Roadrunner-Animal-Hospital_R2026-014154-1) |
@@ -150,7 +147,7 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Radiologic Technologist Per Diem | gohealthuc | 2 Locations |  | 2026-11-16 | [Apply](https://gohealthuc.wd12.myworkdayjobs.com/en-US/external/job/North-East---North-East-MD/Radiologic-Technologist-Per-Diem_JR113231) |
 | Pharmacy Technician I, Retail Pharmacy | nyuhs | Johnson City, NY |  | 2026-11-16 | [Apply](https://nyuhs.wd12.myworkdayjobs.com/en-US/nyuhscareers1/job/Johnson-City-NY/Pharmacy-Technician-I_R0000016793) |
 | Pharmacy Technician I Retail Pharmacy | nyuhs | Vestal, NY |  | 2026-11-16 | [Apply](https://nyuhs.wd12.myworkdayjobs.com/en-US/nyuhscareers1/job/Vestal-NY/Pharmacy-Technician-I-Retail-Pharmacy_R0000017340) |
-| Physician Practice RN | nyuhs | Binghamton, NY |  | 2026-11-16 | [Apply](https://nyuhs.wd12.myworkdayjobs.com/en-US/nyuhscareers1/job/Binghamton-NY/Physician-Practice-RN_R0000016702) |
+| Physician Practice RN | nyuhs | Endicott, NY |  | 2026-11-16 | [Apply](https://nyuhs.wd12.myworkdayjobs.com/en-US/nyuhscareers1/job/Endicott-NY/Physician-Practice-RN_R0000014139-1) |
 | Manager Operations Acute Care - Bay Park Hospital | promedica | 2 Locations |  | 2026-11-16 | [Apply](https://promedica.wd12.myworkdayjobs.com/en-US/external_careers/job/Oregon/Manager-Operations-Acute-Care---Bay-Park-Hospital_JR-10656) |
 | Pharmacy Technician 2 | promedica | Oregon |  | 2026-11-16 | [Apply](https://promedica.wd12.myworkdayjobs.com/en-US/external_careers/job/Oregon/Pharmacy-Technician-2_JR-10306) |
 | RN - Bay Park Hospital - Acute Care | promedica | Oregon |  | 2026-11-16 | [Apply](https://promedica.wd12.myworkdayjobs.com/en-US/external_careers/job/Oregon/RN---Bay-Park-Hospital---Acute-Care_JR-9086) |
@@ -180,9 +177,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Registration Clerk Surgery - Outpatient Surgery - St. Anne Hospital - PRN | easyservice | Toledo, OH |  | 2026-11-16 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Toledo-OH/Registration-Clerk-Surgery---Outpatient-Surgery---St-Anne-Hospital---PRN_R292261) |
 | Phlebotomist - New Vision Medical Laboratories - Joint Township | easyservice | Lima, OH |  | 2026-11-16 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Lima-OH/Phlebotomist---New-Vision-Medical-Laboratories---Joint-Township_R292147) |
 | Patient Care Associate (PCA) - 5 SE Neuro ICU - St. Elizabeth Youngstown Hospit... | easyservice | Youngstown, OH |  | 2026-11-16 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Youngstown-OH/Patient-Care-Associate--PCA----5-SE-Neuro-ICU---St-Elizabeth-Youngstown-Hospital_R283176-1) |
-| Surgical Services Assistant Transporter | bhs | New Albany, IN |  | 2026-11-16 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/New-Albany-IN/Surgical-Services-Assistant-Transporter_R26109687) |
-| Patient Access Coordinator - 1st shift | bhs | Elizabethtown, KY |  | 2026-11-16 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/Patient-Access-Coordinator---1st-shift_R26108175-1) |
-| Nursing Assistant Medical Inpatient FT Nights | bhs | New Albany, IN |  | 2026-11-16 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/New-Albany-IN/Nursing-Assistant-Medical-Inpatient-FT-Nights_R26109808) |
 | Respiratory Field Reimbursement Regional Senior Manager, Mid Atlantic | amgen | 2 Locations |  | 2026-11-16 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---North-Carolina---Raleigh/Respiratory-Field-Reimbursement-Regional-Senior-Manager--Mid-Atlantic_R-261281) |
 | Respiratory Field Reimbursement Senior Manager, Southeast | amgen | 2 Locations |  | 2026-11-16 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Georgia---Atlanta/Respiratory-Field-Reimbursement-Senior-Manager--Southeast_R-261203) |
 | Respiratory Field Reimbursement Regional Senior Manager, South Central | amgen | 5 Locations |  | 2026-11-16 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Tennessee---Chattanooga/Respiratory-Field-Reimbursement-Regional-Senior-Manager---South-Central_R-261202) |
@@ -193,18 +187,24 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | New England Baptist Hospital-Telemetry RN-Per Diem | bilh | New England Baptist Hospital |  | 2026-11-16 | [Apply](https://bilh.wd1.myworkdayjobs.com/en-US/external/job/New-England-Baptist-Hospital/New-England-Baptist-Hospital-Telemetry-RN-Per-Diem_JR103631) |
 | CNA | pacs |  |  | 2026-11-16 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/The-Park-In-Plano/CNA_JR189967) |
 | Occupational Therapist | pacs |  |  | 2026-11-16 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/The-Park-In-Plano/Occupational-Therapist_JR190022) |
+| (USA) Staff Pharmacist | Walmart | Bluefield, VA |  | 2026-11-16 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bluefield-VA/XMLNAME--USA--Staff-Pharmacist_R-2706508) |
+| Staff Pharmacist - $25,000 Sign On Bonus Available | Walmart | (USA) MI CADILLAC 01432 WM SUPERCENTER |  | 2026-11-16 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-MI-CADILLAC-01432-WM-SUPERCENTER/Staff-Pharmacist_R-2676513-2) |
 | Medical Assistant/Patient Care Technician - Endocrinology Clinic | Sanford Health | ND, Bismarck |  | 2026-11-16 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/ND-Bismarck/Medical-Assistant-Patient-Care-Technician---Endocrinology-Clinic_R-0281668) |
 | RN, Outpatient - Urgent Care | Sanford Health | WI, Lake Hallie |  | 2026-11-16 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-Lake-Hallie/RN--Outpatient---Urgent-Care_R-0279838) |
 | RN Case Manager - Home Health - FT | Sanford Health | ND, Fargo |  | 2026-11-16 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/ND-Fargo/RN-Case-Manager---Home-Health---FT_R-0281116) |
 | Pharmacy Intern | CVS Health | OH - Hinckley |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Hinckley/Pharmacy-Intern_R1105142) |
 | Pharmacy Intern | CVS Health | NJ - Edgewater |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Edgewater/Pharmacy-Intern_R1105141) |
 | Pharmacy Intern | CVS Health | 02506 - Rhode Island CVS Pharmacy, L.L.C. |  | 2026-11-16 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/02506---Rhode-Island-CVS-Pharmacy-LLC/Pharmacy-Intern_R1105140) |
+| Clinic RN, LPN or CMA | Avera Health | Cresco, IA |  | 2026-11-16 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Cresco-IA/Clinic-RN--LPN-or-CMA_R-260031749) |
+| Pharmacy Technician | Avera Health | 2 Locations |  | 2026-11-16 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Marshall-MN/Pharmacy-Technician_R-260031459) |
+| Certified Nursing Assistant II (CNAII):MCK Extended Care | Avera Health | Sioux Falls, SD |  | 2026-11-16 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Sioux-Falls-SD/Certified-Nursing-Assistant-II--CNAII--MCK-Extended-Care_R-260019968) |
 | Medical Assistant - Abington Primary Care - Abington, PA | Jefferson Health | Montgomery County, PA |  | 2026-11-16 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Montgomery-County-PA/Medical-Assistant---Abington-Primary-Care---Abington--PA_REQ-0039925-1) |
 | Medical Assistant Float - Women's Healthcare Group - Newtown & Feasterville, PA... | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-16 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Medical-Assistant-Float---Women-s-Healthcare-Group---Newtown---Feasterville--PA--Bucks-County-_REQ-0039400-1) |
 | Medical Assistant - Family Practice - Feasterville, PA | Jefferson Health | Bucks County, PA |  | 2026-11-16 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Bucks-County-PA/Medical-Assistant---Family-Practice---Feasterville--PA_REQ-0039294) |
 | Dental Assistant 2 | University of Washington | Seattle, WA |  | 2026-11-16 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Dental-Assistant-2_REQ-0000138074) |
 | Medical Director National OP Medicare | Humana | Remote Nationwide |  | 2026-11-16 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Medical-Director-National-OP-Medicare_R-437053) |
 | Provider Contracting Professional - Behavioral Health/Medicaid | Humana | Remote Nationwide |  | 2026-11-16 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Provider-Contracting-Professional---Behavioral-Health-Medicaid_R-437015) |
+| Medical Director - Claims | Humana | Remote Nationwide |  | 2026-11-16 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Medical-Director---Claims_R-437463) |
 <!-- JOBS_TABLE_END -->
 
 <details>
@@ -236,7 +236,7 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 </div>
 
-Install the free JobHacki Chrome extension and sign in with a free JobHacki account to browse all 1.1M+ listings. Explore the full directory for more healthcare roles.
+Install the free JobHacki Chrome extension and sign in with a free JobHacki account to browse all 1.2M+ listings. Explore the full directory for more healthcare roles.
 
 ---
 
