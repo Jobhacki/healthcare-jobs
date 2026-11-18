@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>57,855</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>54,990</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-18 04:17 UTC</sub>
+<sub>Snapshot 2026-11-18 08:16 UTC</sub>
 
 </div>
 
@@ -50,12 +50,13 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**57,855 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**54,990 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 08:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| LEAD DIRECT SUPPORT PROFESSIONAL | Resources for Human Development | Bellevue, PA, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbfbdc9a-a7f6-4833-9211-9b7695508c8f&ccId=19000101_000001&jobId=667965&lang=en_US&source=CC2) |
+| Respiratory Therapist, Registered | Sanford Health | ND, Fargo |  | 2026-11-18 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/ND-Fargo/Respiratory-Therapist--Registered_R-0282007) |
+| Weekend Home Care Licensed Practical Nurse | bayada | Piscataway, NJ 08854 / 40.555474341 / -74.460386955 |  | 2026-11-18 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8949525002) |
 | Phlebotomist | vitalant | SD Mitchell |  | 2026-11-18 | [Apply](https://vitalant.wd12.myworkdayjobs.com/en-US/careers/job/SD-Mitchell/Phlebotomist_R26_0000003401) |
 | Donor Center Phlebotomist | americanredcross | Layton, UT |  | 2026-11-18 | [Apply](https://americanredcross.wd1.myworkdayjobs.com/en-US/american_red_cross_careers/job/Layton-UT/Donor-Center-Phlebotomist_RC92116) |
 | Radiation Therapist Banner MD Anderson Cancer Center | bannerhealth | BUMC Phoenix (925 E McDowell Rd) |  | 2026-11-18 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-Phoenix-925-E-McDowell-Rd/Radiation-Therapist-Banner-MD-Anderson-Cancer-Center_R4457493) |
@@ -82,9 +83,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | CT Technologist PRN | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016926696) |
 | Radiologic Technologist PRN | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016926746) |
 | CT Technologist Full Time | Munson Healthcare | Traverse City, Michigan, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990016926777) |
-| Clinical Quality Assessment Lead - PsyD/PhD | lyrahealth | United States |  | 2026-11-18 | [Apply](https://jobs.lever.co/lyrahealth/0848ecbb-21ad-4102-b09c-31ce528365c8) |
-| Licensed Mental Health Therapist (LCSW,LMFT, LPCC) | lifestance | Santa Barbara, CA |  | 2026-11-18 | [Apply](https://jobs.lever.co/lifestance/8bf93988-927f-4c5e-a39a-3083d190fe9a) |
-| Clinical Testing Psychologist | lifestance | Poway, CA |  | 2026-11-18 | [Apply](https://jobs.lever.co/lifestance/3cd42c09-4ab7-4ca4-b402-167f35927d56) |
 | Direct Support Professional (DSP) | Dungarvin | Rohnert Park, CA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162190210) |
 | Board Certified Behavior Analyst (BCBA) / Hybrid / Tennessee | tellos | Nashville |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/tellos/7838d32d-5f47-4b5f-b033-750c2ea7b891) |
 | Board Certified Behavior Analyst (BCBA) | Finni Health | Nassau County, New York |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/finni-health/59740a52-2b4e-4592-a807-3e050a4dda84) |
@@ -129,20 +127,28 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Staff Pharmacist | Walmart | (USA) VA GORDONSVILLE 04682 WM SUPERCENTER |  | 2026-11-18 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-VA-GORDONSVILLE-04682-WM-SUPERCENTER/XMLNAME--USA--Staff-Pharmacist_R-2695024-1) |
 | RN Inpatient - Med/Surg - PRN | Sanford Health | WI, Weston |  | 2026-11-18 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-Weston/RN-Inpatient---Med-Surg---PRN_R-0281831-1) |
 | Patient Access Representative | Sanford Health | WI, City - Remote WI |  | 2026-11-18 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/WI-City---Remote-WI/Patient-Access-Representative_R-0281612) |
-| Patient Care Technician - PCT - Pre-Op/PACU/Recovery Care - FT Days | Sanford Health | SD, Sioux Falls |  | 2026-11-18 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Sioux-Falls/Patient-Care-Technician---PCT---Pre-Op-PACU-Recovery-Care---FT-Days_R-0277027) |
 | Emergency Medical Technician (EMT) | Avera Health | Spirit Lake, IA |  | 2026-11-18 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Spirit-Lake-IA/Emergency-Medical-Technician--EMT-_R-260031806-1) |
 | Patient Access Representative - RELIEF, Night (7P-3:30A) - Washington Twnship ED | Jefferson Health | Gloucester County, NJ |  | 2026-11-18 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Gloucester-County-NJ/Patient-Access-Representative---RELIEF--Night--7P-3-30A----Washington-Twnship-ED_REQ-0040217) |
 | Patient Access Representative - FT, Night (7A-3:30A) - Washington Twnship ED | Jefferson Health | Gloucester County, NJ |  | 2026-11-18 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Gloucester-County-NJ/Patient-Access-Representative---FT--Night--7A-3-30A----Washington-Twnship-ED_REQ-0040213-1) |
 | Patient Access Representative - FT, Night (7P-3:30A) - Stratford ED | Jefferson Health | Camden County, NJ |  | 2026-11-18 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Camden-County-NJ/Patient-Access-Representative_REQ-0040479-1) |
-| Phlebotomist | CCRM | Denver, CO, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&jobId=667677&lang=en_US&source=CC2) |
-| Medical Assistant | USA Clinics Group | Fairfield, Connecticut, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/89AC2FE809) |
-| Registered Behavioral Technician (RBT) | Apexaba | Greenbelt, MD |  | 2026-11-17 | [Apply](https://jobs.lever.co/apexaba/c297b29b-e6db-4a77-b2a1-db9304cfab1f) |
-| Registered Behavioral Technician (RBT) | Apexaba | Wilmington, DE |  | 2026-11-17 | [Apply](https://jobs.lever.co/apexaba/b910b569-dc2c-4247-b21a-f02b53faf7c1) |
-| Registered Behavioral Technician (RBT) | Apexaba | Waldorf, MD |  | 2026-11-17 | [Apply](https://jobs.lever.co/apexaba/a833babd-c8a0-4ff8-be93-54d1b359453b) |
+| Occupational Therapist (Part-Time) | Excel Academy Charter Schools | Providence, RI, United States |  | 2026-11-17 | [Apply](https://jobs.jobvite.com/excel/job/o3b7AfwF) |
+| Scheduler - Full Time, Outpatient | UVA Imaging | Charlottesville, VA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408743) |
+| MRI Supervisor, Outpatient, FT Days | UVA Imaging | Charlottesville, VA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670739) |
+| PRN Radiation Therapist: NO Nights NO Weekends NO Call! | UROPARTNERS LLC | Niles, IL |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671507) |
+| 105-09 Direct Support Professional (Overnight Awake) | Venture Community Services Inc | Southbridge, MA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673130) |
+| MEDICAL ASSISTANT - PODIATRY (FT 38 HRS.) 1MS06 | Penobscot Valley Hospital | Lincoln, ME |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671863) |
+| Direct Support Professional (DSP) | Breakthrough Corporation | Knoxville, TN |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672421) |
+| Full-Time Direct Support Professional (DSP) 8a-8p W/Th/F/every other Sat | Progressive Directions, Inc. (PDI) | Clarksville, TN |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4657842) |
+| Certified Nursing Assistant (CNA), Part Time, 3PM-11PM | Providence Life Services | St. John, IN |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648609) |
+| Certified Nursing Assistant (CNA), Full Time, 7AM-3PM | Providence Life Services | St. John, IN |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668820) |
+| Certified Nursing Assistant (CNA), Part Time, 7AM-3PM | Providence Life Services | St. John, IN |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4666317) |
+| Med Tech/CNA | Elm Terrace Gardens | Lansdale, PA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672882) |
+| Personal Care Attendant | AdvantageCare Home Health | Mount Pleasant, Texas, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/06BB89D6AD) |
+| Personal Care Attendant | AdvantageCare Home Health | Sulphur Springs, Texas, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/E43CB2DCBB) |
+| Board-Certified Radiologist, AI Expert | Weekday AI | US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/790DD2A76C) |
+| Patient Access Specialist - Deltona ED | halifaxhealth | US-FL-Deltona |  | 2026-11-17 | [Apply](https://halifaxhealth.wd12.myworkdayjobs.com/en-US/halifaxhealth/job/US-FL-Deltona/Patient-Access-Specialist---Deltona-ED_JR105912) |
 | Physical Therapist - $15000 SIGN ON BONUS | urpt | Meridian, MS |  | 2026-11-17 | [Apply](https://yourfuture.urpt.com/job/5298994007/?gh_jid=5298994007) |
-| DBT Clinical Quality Supervisor | lyrahealth | United States |  | 2026-11-17 | [Apply](https://jobs.lever.co/lyrahealth/adb15419-9afa-440c-b720-f58361eefd8f) |
 | Clinical Pharmacist - Ambulatory Care | ripcpc | Rhode Island |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/ripcpc/jobs/4730444006) |
-| Psychiatrist-Outpatient | lifestance | Yonkers, NY |  | 2026-11-17 | [Apply](https://jobs.lever.co/lifestance/e180f112-5f0c-4214-a15a-dcd0fe1d33fa) |
 | Health Information Specialist I | datavant2 | Washington, DC 20016 |  | 2026-11-17 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5475670008) |
 | AL Med Tech (AM Shift) | Tenfold Senior Living LLC - PCL | Folsom, CA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668996) |
 | NOC AL Med Tech - Full-Time | Tenfold Senior Living LLC - PCL | Folsom, CA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4666935) |
@@ -195,16 +201,10 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Clinical Nurse Educator (Remote) | ennoblecare | Remote |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/ennoblecare/jobs/4730360006) |
 | CNA Certified Nursing Assistant | bayada | Supply, NC 28462 / 33.947335332 / -78.293029442 |  | 2026-11-17 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8949093002) |
 | Evening Home Health Aide, Hospice | bayada | Ocean City, NJ 08226 / 39.265966527 / -74.591979147 |  | 2026-11-17 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8948976002) |
-| Home Health Aide, Homecare -- Somerset County | bayada | Branchburg, NJ 08876 / 40.575016344 / -74.646037957 |  | 2026-11-17 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8949040002) |
 | Mental Health Coordinator II / Lead Mental Health Specialist | Dungarvin | Farmington, MN, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162175209) |
 | Lead Health Information Specialist | datavant2 | New York, NY 10019 |  | 2026-11-17 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5479304008) |
 | Behavioral Health Case Manager | vynca | Remote - United States |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/vynca/7d6b1696-2918-4b7f-ab9c-06f2e08d46fa) |
 | Stabilization Interventionist | cbemllc | Monterey, California, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/cbemllc/jobs/4755540005) |
-| Board Certified Behavior Analyst (BCBA) | knowledge-road | New York Office |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/knowledge-road/bdcbee93-7b01-42a4-9227-2eb67e47395a) |
-| LPN | AsburyCommunities | York, PA, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/AsburyCommunities/744000162163598) |
-| Psychiatric Prescriber, Child & Adolescent, New York (Fully Remote, 1099 Contra... | handspring | New York (NY) or remote |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/handspring/05cc9af5-535d-45f7-b5e8-975550afa89b) |
-| Psychiatric Prescriber, Child & Adolescent, California (Fully Remote, 1099 Cont... | handspring | California (CA) or remote |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/handspring/732ea0a0-b003-493f-a4ed-eabba2255e4c) |
-| Behavior Technician (BT/RBT) | Finni Health | Ridgewood, New York |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/finni-health/8d31e1ae-da63-4de5-9005-f685455bd97d) |
 <!-- JOBS_TABLE_END -->
 
 <details>
