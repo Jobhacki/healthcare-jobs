@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>56,866</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>58,138</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 04:17 UTC</sub>
+<sub>Snapshot 2026-11-19 08:16 UTC</sub>
 
 </div>
 
@@ -50,15 +50,14 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**56,866 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**58,138 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 08:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| MEDICAL ASSISTANT/ENT M-F (8:00-4:30) Toledo OH | ADP employer 340981d8 | Park Center-ENT, Toledo, OH, US |  | 2026-11-19 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=340981d8-e3b1-4d14-850e-ac2e62cb006a&ccId=19000101_000001&jobId=596944&lang=en_US&source=CC2) |
-| Associate Mental Health Therapist | Gotham Enterprises Ltd | Concord, New Hampshire, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/F0A9F112CB) |
-| Associate Mental Health Therapist | Gotham Enterprises Ltd | Las Vegas, Nevada, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/4120D0649C) |
-| Associate Mental Health Therapist | Gotham Enterprises Ltd | Omaha, Nebraska, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/053039B400) |
+| Health Care Technician II - Murdoch Developmental Center | nc | Granville County, NC |  | 2026-11-19 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Granville-County-NC/Health-Care-Technician-II---Murdoch-Developmental-Center_JR-128924) |
+| Physical Therapist Case Manager, Level 2: Home Health | 21Hhs | Mountain View, California |  | 2026-11-19 | [Apply](https://jobs.lever.co/21hhs/2e7e19d6-b07b-4c04-9491-389ad429d711) |
+| Certified Nursing Assistant CNA-STNA | otterbein | Cridersville, Ohio |  | 2026-11-19 | [Apply](https://boards.greenhouse.io/otterbein/jobs/8208472003?gh_jid=8208472003) |
 | Federal Clinical Educator | abbott | United States of America : Remote |  | 2026-11-19 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States-of-America--Remote/Federal-Clinical-Educator_31167247-1) |
 | Phlebotomist-Mobile 13 | vitalant | PA Pittsburgh |  | 2026-11-19 | [Apply](https://vitalant.wd12.myworkdayjobs.com/en-US/careers/job/PA-Pittsburgh/Phlebotomist-Mobile-13_R26_0000003429) |
 | Phlebotomist II - Mobile 13 | vitalant | PA Pittsburgh |  | 2026-11-19 | [Apply](https://vitalant.wd12.myworkdayjobs.com/en-US/careers/job/PA-Pittsburgh/Phlebotomist-II---Mobile-13_R26_0000003419-1) |
@@ -142,6 +141,20 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Patient Services Specialist - UW Medicine Primary Care at Ballard | University of Washington | Seattle, WA |  | 2026-11-19 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Patient-Services-Specialist---UW-Medicine-Primary-Care-at-Ballard_REQ-0000139015-1) |
 | Patient Services Specialist - Sexual Health Clinic - Harborview | University of Washington | Seattle, WA |  | 2026-11-19 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Patient-Services-Specialist----Sexual-Health-Clinic----Harborview_REQ-0000137304-1) |
 | RN - Orthopedic / Neurosurgery Unit - UW Medical Center-Northwest | University of Washington | Seattle, WA |  | 2026-11-19 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/RN---Orthopedic---Neurosurgery-Unit---UW-Medical-Center-Northwest_REQ-0000138938-1) |
+| Front Office Assistant-Medical-Closes 11/24/26 | ADP employer 447f2bd0 | Arcata, CA, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=447f2bd0-2d4d-4f2a-9bae-3f5453ebc910&ccId=19000101_000001&jobId=615221&lang=en_US&source=CC2) |
+| Certified Medical Assistant II- Arcata-Closes 10/29/2026 | ADP employer 447f2bd0 | Potawot-Arcata, Arcata, CA, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=447f2bd0-2d4d-4f2a-9bae-3f5453ebc910&ccId=19000101_000001&jobId=615120&lang=en_US&source=CC2) |
+| Staff Physician | Harbor Health | Harbor Community Health Center - Plymouth, Plymouth, MA, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=408d9981-05cb-4530-b223-acff48d0efc8&ccId=19000101_000001&jobId=634828&lang=en_US&source=CC2) |
+| Sonographer (Per-diem/On-Call) | Radia | Olympia, WA, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=392be3d9-ad85-4cb1-b4e1-50801a42f23d&ccId=19000101_000001&jobId=576325&lang=en_US&source=CC2) |
+| Donor Center Phlebotomist | americanredcross | Arden Hills, MN |  | 2026-11-18 | [Apply](https://americanredcross.wd1.myworkdayjobs.com/en-US/american_red_cross_careers/job/Arden-Hills-MN/Donor-Center-Phlebotomist_RC92266) |
+| Family Practice Physician | Akicita Cyber | Lower Brule, SD |  | 2026-11-18 | [Apply](https://jobs.lever.co/akicita-cyber/5e376452-ee4d-44db-9dba-5cd42076131b) |
+| Cognitive Neurologist (Full-Time) | synapticure | United States |  | 2026-11-18 | [Apply](https://jobs.lever.co/synapticure/73779b14-9145-4037-9e71-5bd0bbe56ed0) |
+| Physical Therapist- Chelsea | spear | New York, New York |  | 2026-11-18 | [Apply](https://jobs.lever.co/spear/f84b8c57-7d9b-4112-ad8e-32d64a8235ce) |
+| Physical Therapist - Manhattan | spear | New York, New York |  | 2026-11-18 | [Apply](https://jobs.lever.co/spear/f4ee4b24-1e27-4407-b5c1-d1acc1974e29) |
+| Physical Therapist - Grand Central | spear | New York, New York |  | 2026-11-18 | [Apply](https://jobs.lever.co/spear/25d22bbd-ff4b-416d-a5a8-6430c7673f78) |
+| Cardiac Sonographer - PRN - Indianapolis, IN | roshalimaging | Indianapolis, IN |  | 2026-11-18 | [Apply](https://jobs.lever.co/roshalimaging/d6786194-fc9f-4fc0-9250-d23544cd55f8) |
+| Cardiac Sonographer - Full-time - Indianapolis, IN | roshalimaging | Indianapolis, IN |  | 2026-11-18 | [Apply](https://jobs.lever.co/roshalimaging/e7f1d6ac-3140-482d-a9d8-d9a7c67e25da) |
+| Direct Support Professional (DSP) | dabsinc | Novato, CA |  | 2026-11-18 | [Apply](https://jobs.lever.co/dabsinc/edf12f54-b464-4a83-834a-4bb5b682107c) |
+| Direct Support Professional (DSP) | dabsinc | Santa Rosa, CA |  | 2026-11-18 | [Apply](https://jobs.lever.co/dabsinc/1da119dd-eec4-47bb-8e26-d65b7460b59c) |
 | Direct Support Professional - Day Habilitation | ACHIEVE NY | Cortland, NY |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4675112) |
 | Outpatient Clinic Front Office Associate | Morgan Medical Center | Madison, GA |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4487365) |
 | Licensed Medical Staff – EMT/Paramedic | Assure Health LLC | West Chester, OH |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4675198) |
@@ -150,7 +163,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Direct Support Professional-East Side- Facility Based | Noble | Indianapolis, IN |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1736206) |
 | Residential Clinical Case Manager & Assistant Team Leader | Monadnock Family Services | Keene, NH |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674267) |
 | RN for Physician Team - Grandview Cancer Clinic | Alabama Oncology | Birmingham, AL |  | 2026-11-18 | [Apply](https://alabama-oncology.breezy.hr/p/65dcbb863442-rn-for-physician-team-grandview-cancer-clinic) |
-| Director of Justice/Behavioral Health Integra | Region | Lincoln, NE, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2cb77b2c-92ae-4cc1-9fad-4f7210e7ceef&ccId=19000101_000001&jobId=571057&lang=en_US&source=CC2) |
 | Physical Therapist Assistant | urpt | Medford, OR |  | 2026-11-18 | [Apply](https://yourfuture.urpt.com/job/5301420007/?gh_jid=5301420007) |
 | Patient Experience Coordinator | optimamedical | 1355 North Scottsdale Road Scottsdale, AZ 85257 |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/optimamedical/jobs/4514020009) |
 | Director, Clinical Operations | jadebiosciences | Boston; San Francisco; Seattle; Vancouver |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/jadebiosciences/jobs/5489154008) |
@@ -193,18 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Licensed Therapist (Nevada Licensure) | kindbridgecorporation | Remote |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/kindbridgecorporation/jobs/4513957009) |
 | Licensed Therapist (Minnesota Licensure) | kindbridgecorporation | Remote |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/kindbridgecorporation/jobs/4513953009) |
 | Field Clinical Representative - Lincoln | inspiremedicalsystemsinc | Lincoln, NE |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/5484985008?gh_jid=5484985008) |
-| Personal Care Specialist | greenthumbindustries | Oviedo, Florida, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/greenthumbindustries/jobs/8393807) |
-| Direct Support Professional (DSP) / Caregiver - Float (Lake/Porter County) | Dungarvin | Portage, IN, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162388909) |
-| Direct Support Professional (DSP) Float / Caregiver | Dungarvin | Flora, IN, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162396663) |
-| Direct Support Professional / Caregiver | Dungarvin | Colorado Springs, CO, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162402358) |
-| Medical Assistant - Willing to Train! | ecpcareers | Derby, KS |  | 2026-11-18 | [Apply](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8950761002) |
-| Patient Coordinator | ecpcareers | Wichita, KS - Seneca St. Office |  | 2026-11-18 | [Apply](https://www.eyecare-partners.com/careers/current-job-openings/?gh_jid=8943631002) |
-| Remote Therapist - South Carolina | talkiatry | South Carolina |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/talkiatry/ecf335de-86ff-45fa-9d19-c9fe04846afd) |
-| Remote Therapist - Alabama | talkiatry | Alabama |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/talkiatry/56e4b53d-129b-4767-8976-7b30da6c2efb) |
-| Remote Therapist - Arkansas | talkiatry | Arkansas |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/talkiatry/9d6cac13-71df-431a-941c-ca08a21715cb) |
-| Dental Hygienist (Welcoming Bonus!) | dental365 | Hamburg, Pennsylvania, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/dental365/jobs/8208752003) |
-| Collaborating Family Medicine Physician - South Carolina | sprinter-health | Charleston, SC |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/sprinter-health/75220392-6ca9-4429-9105-ca0b6a84b0c1) |
-| Collaborating Family Medicine Physician - Mississippi | sprinter-health | Jackson, MS |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/sprinter-health/dadd88f8-01e1-4cc1-ade7-59febee463f1) |
 <!-- JOBS_TABLE_END -->
 
 <details>
