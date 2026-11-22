@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>58,796</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>58,320</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 00:16 UTC</sub>
+<sub>Snapshot 2026-11-22 04:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**58,796 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 00:16 UTC.** Apply links go to the employer's career page or hiring system.
+**58,320 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -63,8 +63,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Pharmacy Technician | CVS Health | MN - Eden Prairie |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MN---Eden-Prairie/Pharmacy-Technician_R1110506) |
 | Pharmacy Technician | CVS Health | AZ - Tucson |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Tucson/Pharmacy-Technician_R1110715) |
 | Pharmacy Technician | CVS Health | AZ - Tucson |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Tucson/Pharmacy-Technician_R1110632) |
-| Medical Assistant | ADP employer 2bf45704 | Bryn Mawr, PA, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2bf45704-d994-4682-b394-403ac25bdf8c&ccId=19000101_000001&jobId=471507&lang=en_US&source=CC2) |
-| Pharmacy Technician | Midwest Veterinary Supply | DeForest, WI, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=293ebbc2-72a4-4413-bd7b-e06ac6d58a7e&ccId=19000101_000001&jobId=599633&lang=en_US&source=CC2) |
 | Remote Optometrist | National Vision | Indianapolis, IN, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000162966360) |
 | Psychotherapist - AI Training - Philippines | prolificacademicltd | Remote |  | 2026-11-21 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5043961101) |
 | Lead Medical Assistant | greenbrookmedical | Riverview, FL |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5491760008) |
@@ -132,23 +130,23 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Nursing Clinical Internship (NCI) / Clinic | Avera Health | Yankton, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Nursing-Clinical-Internship--NCI----Clinic_R-260031998) |
 | Medical Assistant - Part Time - UW Medicine Primary Care at Mountlake Terrace | University of Washington | Mountlake Terrace, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Mountlake-Terrace-WA/Medical-Assistant---Part-Time---UW-Medicine-Primary-Care-at-Mountlake-Terrace_REQ-0000139230-2) |
 | Patient Services Specialist - UW Medicine Primary Care at Belltown | University of Washington | Seattle, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Patient-Services-Specialist---UW-Medicine-Primary-Care-at-Belltown_REQ-0000139244-1) |
+| School Based Therapist CCST Program | Kitsap Mental Health Services | Bremerton, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/kitsapmentalhealth/job/oyr4Afwn) |
+| School Based Therapist - Central Kitsap High Schools | Kitsap Mental Health Services | Bremerton, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/kitsapmentalhealth/job/oUi8AfwE) |
+| Clinical Program Manager- Child and Family Outpatient Services | Kitsap Mental Health Services | Bremerton, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/kitsapmentalhealth/job/oW68Afwu) |
+| CNA – 12-Hour Day Shift | MAINE VETERANS HOMES | South Paris, ME |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682381) |
+| Patient Services Representative | West Florida Medical Center Clinic PA | Gulf Breeze, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683194) |
+| Radiologic Technologist | The Spine Hospital of Louisiana | Baton Rouge, LA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4641631) |
+| Certified Medical Assistant - Day Shift. 4/10's | Radia | Seattle, WA, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=392be3d9-ad85-4cb1-b4e1-50801a42f23d&ccId=19000101_000001&jobId=576424&lang=en_US&source=CC2) |
 | Pharmacy Technician | Palo Verde Cancer Specialists | Glendale, AZ |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683197) |
 | Associate Therapist I ( Job Fair ) | Sierra Meadows Behavioral Health | Fresno, CA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684352) |
 | Licensed Therapist I ( Job Fair ) | Sierra Meadows Behavioral Health | Fresno, CA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684360) |
 | Clinical Supervisor ( Job Fair ) | Sierra Meadows Behavioral Health | Sierra Meadows Behavioral Health |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684357) |
 | Medical Case Manager | Positive Impact Health Centers INC | Marietta, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682909) |
-| Clinical Psychologist - Tempe AZ | MRG Exams | Tempe, Arizona, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/43BEBAF69B) |
 | Clinical Practice Supervisor - days | Nexus Family Healing | East Bethel, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681655) |
 | Dental Assistant | Excel Dental | Everett, MA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678197) |
 | Patient Care Technician - Part time | Kearney County Health Services | Minden, NE |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683793) |
 | Behavioral Health Technician - Part-Time | Palmer Addiction Recovery Services | Tulsa, OK |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681261) |
 | Radiologic Technology/Limited Medical Radiography Faculty (FT) | The Sullivan University System Inc | Louisville, KY |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683890) |
-| Medical Assistant - Employee Health Services | baystatehealth | Springfield, Massachusetts |  | 2026-11-20 | [Apply](https://baystatehealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Springfield-Massachusetts/Medical-Assistant---Employee-Health-Services_R46283) |
-| Patient Service Rep Imaging | baystatehealth | Springfield, Massachusetts |  | 2026-11-20 | [Apply](https://baystatehealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Springfield-Massachusetts/Patient-Service-Rep-Imaging_R43644-1) |
-| Patient Service Rep - Rehab | baystatehealth | Springfield, Massachusetts |  | 2026-11-20 | [Apply](https://baystatehealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Springfield-Massachusetts/Patient-Service-Rep---Rehab_R45919) |
-| Patient Service Representative PRN | imh | Denver Midtown Clinic |  | 2026-11-20 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Denver-Midtown-Clinic/Patient-Service-Representative_R183983) |
-| Patient Care Technician CNA Neuro Trauma | imh | Intermountain Health Utah Valley Hospital |  | 2026-11-20 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Intermountain-Health-Utah-Valley-Hospital/Patient-Care-Technician-CNA-Neuro-Trauma_R190524) |
-| PRN Hospitalist | imh | Intermountain Health Utah Valley Hospital |  | 2026-11-20 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Intermountain-Health-Utah-Valley-Hospital/PRN-Hospitalist_R189906-1) |
 | Junior Storm Community Clinic Coach | Force 10 Hoops, LLC | Hybrid - King County, WA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682527) |
 | Patient Experience Coordinator I | Sees Management LLC | Franklin, TN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681914) |
 | Patient Experience Coordinator I | Sees Management LLC | Tullahoma, TN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681980) |
@@ -182,6 +180,7 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Medical Assistant II Certified | Centers for Advanced Urology | Rosemont, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681710) |
 | Medical Assistant II Certified | Centers for Advanced Urology | Bryn Mawr, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681755) |
 | School-Linked Behavioral Health Practitioner and Children’s Targeted Case Manag... | Range Mental Health Center | Virginia, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682056) |
+| Tele-Emergency (Tele-Ed) Physician | Akicita Cyber | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/akicita-cyber/69f3056f-d45b-454c-9748-c1c821d8fc66) |
 | Staff Pharmacist - Per Diem (Req 101138) | Whitney M Young Jr Health Center | Albany, NY |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680163) |
 | ASDOH-Dental Assistant AZ | ATSU PUBLIC | Mesa, AZ |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663311) |
 | Physical Therapist Assistant (PTA) FT | Vital Therapy | Taylor, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682217) |
@@ -190,10 +189,12 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Medical Social Worker (MSW) - Hospice Community | Granite VNA, Inc. | Lakes Region, NH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680156) |
 | Physical Therapist (PT) - Home Care | Granite VNA, Inc. | Manchester, NH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680679) |
 | Certified Nursing Assistant II | TLC Operations, Inc | Raleigh, NC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677946) |
+| Patient Care Coordinator | jushico | Dickson City, PA |  | 2026-11-20 | [Apply](https://jobs.lever.co/jushico/08b8b9f9-e720-4e0e-9211-a90ac4e2f7ba) |
+| Psychologist | Included Health | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/includedhealth/741de401-6e3e-44d4-8cb6-cb00a7e16165) |
+| Patient Care Coordinator (Bilingual) | highbarhealth | Pawtucket, RI |  | 2026-11-20 | [Apply](https://jobs.lever.co/highbarhealth/d1b183c4-806f-4949-9801-7d0f16c29549) |
 | Medical Assistant - 1H Alderwood | ZoomCare | Lynnwood, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/zoomcare/job/o2uCAfws) |
 | CNA - Night Shift | Lewiston of Cascadia, LLC | Lewiston, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4527839) |
 | Experienced Memory Care Direct Caregiver- CNA (Part-Time, PRN) | Holbrook Life Management | Sugar Hill, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682140) |
-| Full-time Night Shift Certified Nursing Assistant/Registered Medication Aide (C... | wc-br | Charlottesville, VA |  | 2026-11-20 | [Apply](https://jobs.lever.co/wc-br/e98ba238-1f9a-47e7-b108-215e4091d9a3) |
 | Physical Therapy Assistant (PTA) - Home Health - PRN | vitalcaringgroup | Southaven, Mississippi, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4513557009) |
 | Clinical Trial Leader | tangotherapeutics | Boston, MA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tangotherapeutics/jobs/8209355003) |
 | Float Nurse for Multiple Illinois Clinics | BAART Programs | Springfield, IL, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/baart-programs/job/oscVAfwT) |
@@ -204,7 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Home Care Intake & Medicaid Services Navigation Specialist | New York State Office and RN Job Openings | Lakewood, CO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662669) |
 | Corrections - Dental Assistant | DOCS Health | Rockville, MD |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656757) |
 | Corrections - Dental Assistant | DOCS Health | Barnstable, MA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656609) |
-| Part-Time Dental Assistant | DOCS Health | Woodstown, NJ |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3679491) |
 <!-- JOBS_TABLE_END -->
 
 <details>
