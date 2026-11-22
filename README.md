@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>57,847</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>56,550</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 16:18 UTC</sub>
+<sub>Snapshot 2026-11-22 20:18 UTC</sub>
 
 </div>
 
@@ -50,12 +50,13 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**57,847 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 16:18 UTC.** Apply links go to the employer's career page or hiring system.
+**56,550 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 20:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Dental Assistant | West Coast Dental | Norco, CA, US |  | 2026-11-22 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=695db8f0-3d9f-40f0-b68c-296ae057c44f&ccId=19000101_000001&jobId=572317&lang=en_US&source=CC2) |
+| Patient Care Technician - PCT | freseniusmedicalcare | Chicago, IL |  | 2026-11-22 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Chicago-IL/Patient-Care-Technician---PCT_R0258575-1) |
+| Patient Service Representative Float-Immediate Care Center Crystal Lake Full Ti... | Northwestern Memorial Healthcare | Crystal Lake, IL, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000163097709) |
 | Physical Therapist Assistant - Visit Based Earnings | urpt | Thomson, GA |  | 2026-11-22 | [Apply](https://yourfuture.urpt.com/job/5306318007/?gh_jid=5306318007) |
 | Mental Health Coordinator II / Lead Mental Health Specialist | Dungarvin | Farmington, MN, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000163093869) |
 | Care Manager - Behavioral Health | centene | Remote-MO |  | 2026-11-22 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Care-Manager---Behavioral-Health_1677760) |
@@ -70,8 +71,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Pharmacy Technician | CVS Health | MN - Eden Prairie |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MN---Eden-Prairie/Pharmacy-Technician_R1110506) |
 | Pharmacy Technician | CVS Health | AZ - Tucson |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Tucson/Pharmacy-Technician_R1110715) |
 | Pharmacy Technician | CVS Health | AZ - Tucson |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Tucson/Pharmacy-Technician_R1110632) |
-| HHA Trainee | HCR | Rochester, NY, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=74015a75-000a-4ccd-a4fd-5b28c18a4cdf&ccId=19000101_000001&jobId=656828&lang=en_US&source=CC2) |
-| Dental treatment Cordinator | West Coast Dental | Fontana, CA, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=695db8f0-3d9f-40f0-b68c-296ae057c44f&ccId=19000101_000001&jobId=572269&lang=en_US&source=CC2) |
 | Psychotherapist - AI Training - Philippines | prolificacademicltd | Remote |  | 2026-11-21 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5043961101) |
 | Lead Medical Assistant | greenbrookmedical | Riverview, FL |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5491760008) |
 | Lead Medical Assistant | greenbrookmedical | Brandon, FL |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5491757008) |
@@ -99,7 +98,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | RN - Emergency Department - UW Medical Center-Northwest (Mid Shift) | University of Washington | Seattle, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/RN---Emergency-Department---UW-Medical-Center-Northwest--Mid-Shift-_REQ-0000138729) |
 | Patient Access Specialist - Part Time - Rotating Days and Evenings | Northwestern Memorial Healthcare | McHenry, IL, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162837630) |
 | Patient Access Specialist - Part Time - Rotating Days and Evenings | Northwestern Memorial Healthcare | McHenry, IL, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162837939) |
-| Outpatient Coder II, HB Coding, Full-time, Days (Remote - Must reside in IL, IN... | Northwestern Memorial Healthcare | Chicago, IL, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162837584) |
 | Behavior Clinician II - Habilitative Skill Building Program | Dungarvin | Tacoma, WA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162910329) |
 | Behavior Clinician II - Dialectical Behavior Therapy Program | Dungarvin | Tacoma, WA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162907337) |
 | Spa Supervisor & Lead Therapist | AccorHotel | Long Beach, CA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000162894607) |
@@ -127,15 +125,16 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | FILLED Medical Assistant Happy Valley Primary Care | honorhealth |  |  | 2026-11-21 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Medical-Office-Building---8208-W-Happy-Valley-Rd-Peoria-AZ-85383/Medical-Assistant-Happy-Valley-Primary-Care_JR12249-1) |
 | Pharmacy Prior Authorization Senior Representative - Freedom Fertility - Remote... | cigna | 5 Locations |  | 2026-11-21 | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Tempe-AZ/Pharmacy-Prior-Authorization-Senior-Representative---Freedom-Fertility---Remote-AZ-or-IL-or-MA_26013900) |
 | Patient Care Technician (PCT) - Orthopedic Unit - St. Rita's Medical Center | easyservice | Lima, OH |  | 2026-11-21 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Lima-OH/Patient-Care-Technician--PCT----Orthopedic-Unit---St-Rita-s-Medical-Center_R291342) |
-| Patient Care Technician - PCT CCHT - Dialysis - Per Diem | freseniusmedicalcare | CA279 FMCNA Ceres Ave Chico RAI - Clinic |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/CA279-FMCNA-Ceres-Ave-Chico-RAI---Clinic/Patient-Care-Technician---PCT-CCHT---Dialysis---Per-Diem_R0278437) |
-| RN Inpatient - Rehab - Part Time | Sanford Health | ND, Fargo |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/ND-Fargo/RN-Inpatient---Rehab---Weekends---PT_R-0258959) |
-| Pharmacy Technician - Full Time - Inpatient | Sanford Health | SD, Sioux Falls |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Sioux-Falls/Pharmacy-Technician---Full-Time---Inpatient_R-0281775) |
-| Physical Therapist - Acute / Full-Time | Sanford Health | SD, Sioux Falls |  | 2026-11-21 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Sioux-Falls/Physical-Therapist---Acute---Full-Time_R-0282296) |
 | Care Assistant / Hospice House | Avera Health | Sioux Falls, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Sioux-Falls-SD/Care-Assistant---Hospice-House_R-260032011) |
 | Care Assistant / Hospice House PRN | Avera Health | Sioux Falls, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Sioux-Falls-SD/Care-Assistant---Hospice-House-PRN_R-260032015) |
 | Nursing Clinical Internship (NCI) / Clinic | Avera Health | Yankton, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Nursing-Clinical-Internship--NCI----Clinic_R-260031998) |
 | Medical Assistant - Part Time - UW Medicine Primary Care at Mountlake Terrace | University of Washington | Mountlake Terrace, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Mountlake-Terrace-WA/Medical-Assistant---Part-Time---UW-Medicine-Primary-Care-at-Mountlake-Terrace_REQ-0000139230-2) |
 | Patient Services Specialist - UW Medicine Primary Care at Belltown | University of Washington | Seattle, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Patient-Services-Specialist---UW-Medicine-Primary-Care-at-Belltown_REQ-0000139244-1) |
+| Clinical Trials Associate | ADP employer 864d2c13 | Shattuck Labs, Durham, NC, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=864d2c13-a766-4a1f-8cf4-30f944a191f1&ccId=19000101_000001&jobId=593059&lang=en_US&source=CC2) |
+| Surgical Assistant | Paradigm Oral Health | Powell, OH, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7d440142-9bea-47aa-bf93-d38fcb1973bd&ccId=19000101_000001&jobId=573425&lang=en_US&source=CC2) |
+| Traveling New Patient Coordinator | Lane & Associates | Garner, NC, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7821db1d-efa6-440f-a7e7-291622846f9c&ccId=19000101_000001&jobId=562114&lang=en_US&source=CC2) |
+| Hospice Registered Nurse Clinical Manager | AdvisaCare | Troy, Michigan, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/EE94143364) |
+| Crisis Overdose Response Worker | Access Services | PLYMOUTH MTNG, Pennsylvania, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/46A9E1513D) |
 | Medical Assistant/Secretary | Nuvance Health Med Practice CT | Ridgefield, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/o505Afwu) |
 | Patient Services Transporter 1 | Norwalk Hospital Association | Norwalk, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/onaWAfwN) |
 | Sterile Processing Equipment Technician 2 | Norwalk Hospital Association | Norwalk, CT, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/nuvance/job/oX21Afwk) |
@@ -205,6 +204,7 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | CNA, Emergency Tech, Med/surg (Float) | Shoshone Medical Center | Kellogg, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656751) |
 | Medical Technologist, MLS or MLT, Day shift (no call), 8k sign on bonus | Shoshone Medical Center | Kellogg, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4651206) |
 | Patient Access Representative (Outpatient department) | Shoshone Medical Center | Kellogg, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4535512) |
+| Nursing Assistant in Assisted Living - 6:30a to 2:30p - FT - Sign On Bonus | Presbyterian Communities of South Carolina | Summerville, SC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674801) |
 <!-- JOBS_TABLE_END -->
 
 <details>
