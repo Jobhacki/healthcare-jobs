@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-healthcare-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-healthcare-jobs-light.svg"><img alt="Healthcare jobs: JobHacki job list, last updated on Nov 21, 2026" src="assets/dist/hero-healthcare-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-healthcare-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-healthcare-jobs-light.svg"><img alt="Healthcare jobs: JobHacki job list, last updated on Nov 22, 2026" src="assets/dist/hero-healthcare-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>58,193</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>58,796</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-21 20:17 UTC</sub>
+<sub>Snapshot 2026-11-22 00:16 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-Explore clinical, caregiving, and medical office roles in this fresh slice of jobs taken from employers' own hiring systems. Updated Nov 21, 2026.
+Explore clinical, caregiving, and medical office roles in this fresh slice of jobs taken from employers' own hiring systems. Updated Nov 22, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,18 +50,26 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**58,193 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 20:17 UTC.** Apply links go to the employer's career page or hiring system.
+**58,796 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 00:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Patient Access Representative | ADP employer 1fe50326 | Los Angeles, CA, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1fe50326-beac-4a7c-a564-f8a14f9c5bb0&ccId=19000101_000001&jobId=577270&lang=en_US&source=CC2) |
-| Behavioral Health Clinician | Nasson Health Care | Springvale, Oak Street, Springvale, ME, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c4bd615-3829-460d-b922-a0167bb29d8c&ccId=19000101_000001&jobId=522339&lang=en_US&source=CC2) |
-| (USA) Staff Pharmacist | Walmart | (USA) SC COLUMBIA 01286 WM SUPERCENTER |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-COLUMBIA-01286-WM-SUPERCENTER/XMLNAME--USA--Staff-Pharmacist_R-2717456) |
-| (USA) Pharmacy Tech Certified Sam's | Walmart | (USA) NC RALEIGH 06570 SAM'S CLUB |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-NC-RALEIGH-06570-SAMS-CLUB/XMLNAME--USA--Pharmacy-Tech-Certified-Sam-s_R-2718839) |
-| Pharmacy Technician | CVS Health | SC - Holly Hill |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/SC---Holly-Hill/Pharmacy-Technician_R1110352) |
-| Pharmacy Technician | CVS Health | VA - Fredericksburg |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Fredericksburg/Pharmacy-Technician_R1110388) |
-| Pharmacy Technician | CVS Health | SC - Orangeburg |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/SC---Orangeburg/Pharmacy-Technician_R1110466) |
+| Radiology Technologist - Urgent Care Cincinnati Market | easyservice | Cincinnati, OH |  | 2026-11-22 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/Radiology-Technologist---Urgent-Care-Cincinnati-Market_R293538) |
+| Patient Access Coordinator - 1st shift | bhs | Elizabethtown, KY |  | 2026-11-22 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/Patient-Access-Coordinator---1st-shift_R26110120) |
+| Pharmacy Tech Sam's | Walmart | Conway, AR |  | 2026-11-22 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Conway-AR/Pharmacy-Tech-Sam-s_R-2718901) |
+| Pharmacy Manager | Walmart | (USA) FL SANFORD 03207 WM SUPERCENTER |  | 2026-11-22 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-SANFORD-03207-WM-SUPERCENTER/Pharmacy-Manager_R-2714085-1) |
+| (USA) Pharmacy Tech Sam's | Walmart | Papillion, NE |  | 2026-11-22 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Papillion-NE/XMLNAME--USA--Pharmacy-Tech-Sam-s_R-2718993) |
+| Pharmacy Technician | CVS Health | MN - Eden Prairie |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MN---Eden-Prairie/Pharmacy-Technician_R1110506) |
+| Pharmacy Technician | CVS Health | AZ - Tucson |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Tucson/Pharmacy-Technician_R1110715) |
+| Pharmacy Technician | CVS Health | AZ - Tucson |  | 2026-11-22 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Tucson/Pharmacy-Technician_R1110632) |
+| Medical Assistant | ADP employer 2bf45704 | Bryn Mawr, PA, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2bf45704-d994-4682-b394-403ac25bdf8c&ccId=19000101_000001&jobId=471507&lang=en_US&source=CC2) |
+| Pharmacy Technician | Midwest Veterinary Supply | DeForest, WI, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=293ebbc2-72a4-4413-bd7b-e06ac6d58a7e&ccId=19000101_000001&jobId=599633&lang=en_US&source=CC2) |
+| Remote Optometrist | National Vision | Indianapolis, IN, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000162966360) |
+| Psychotherapist - AI Training - Philippines | prolificacademicltd | Remote |  | 2026-11-21 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5043961101) |
+| Lead Medical Assistant | greenbrookmedical | Riverview, FL |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5491760008) |
+| Lead Medical Assistant | greenbrookmedical | Brandon, FL |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5491757008) |
+| Lead Medical Assistant | greenbrookmedical | New Port Richey, FL |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5491754008) |
 | Phlebotomist | Labcorp | Rowlett TX |  | 2026-11-21 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Rowlett-TX/Phlebotomist_2637288) |
 | Phlebotomist | Labcorp | Kaufman TX |  | 2026-11-21 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Kaufman-TX/Phlebotomist_2631628) |
 | Certified Caregiver, Assisted Living - Part-Time/PRN | SpectrumRetirementCommunities | Ahwatukee Foothills, Arizona, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/SpectrumRetirementCommunities/3743990017022576) |
@@ -70,7 +78,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Certified Nursing Assistant (CNA) / 7p - 7a / SIGN ON BONUS | Presbyterian Communities of South Carolina | Easley, SC |  | 2026-11-21 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670757) |
 | Acute Inpatient Patient Care Technician - PCT CCHT - Dialysis | freseniusmedicalcare | 3 Locations |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Akron-OH/Acute-Inpatient-Patient-Care-Technician---PCT-CCHT---Dialysis_R0278947) |
 | Acute Inpatient Care Technician - PCT | freseniusmedicalcare | Ann Arbor, MI, USA |  | 2026-11-21 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Ann-Arbor-MI-USA/Acute-Inpatient-Care-Technician---PCT_R0278572) |
-| Pharmacy Grad Intern (Hrly) - $25,000 Sign On Bonus (2027 Grad Sign On Program) | Walmart | (USA) IN PORTAGE 02544 WM SUPERCENTER |  | 2026-11-21 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-IN-PORTAGE-02544-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2681121) |
 | Phlebotomist - PRN / Casual | Labcorp | Dallas TX |  | 2026-11-21 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Dallas-TX/Phlebotomist---PRN---Casual_2613488) |
 | Respiratory Therapist, RRT (Per Diem, Rotating) - Jefferson Abington | Jefferson Health | Montgomery County, PA |  | 2026-11-21 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Montgomery-County-PA/Respiratory-Therapist--RRT--Per-Diem--Rotating----Jefferson-Abington_REQ-0038868-1) |
 | Physical Therapist | urpt | Cordova, TN |  | 2026-11-21 | [Apply](https://yourfuture.urpt.com/job/5304853007/?gh_jid=5304853007) |
@@ -84,7 +91,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Product Performance Clinical Lead | abbott | United States - Minnesota - Plymouth |  | 2026-11-21 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---Plymouth/Product-Performance-Clinical-Lead_31168287-1) |
 | Medical Assistant PRN | bhs | Elizabethtown, KY |  | 2026-11-21 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/Medical-Assistant-PRN_R26110041) |
 | LMR Medical Assistant - PRN | bhs | Elizabethtown, KY |  | 2026-11-21 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/LMR-Medical-Assistant---PRN_R26110044) |
-| Patient Access Coordinator | bhs | Elizabethtown, KY |  | 2026-11-21 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/Patient-Access-Coordinator_R26109903) |
 | RN - Emergency Department - UW Medical Center-Northwest (Mid Shift) | University of Washington | Seattle, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/RN---Emergency-Department---UW-Medical-Center-Northwest--Mid-Shift-_REQ-0000138729) |
 | Patient Access Specialist - Part Time - Rotating Days and Evenings | Northwestern Memorial Healthcare | McHenry, IL, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162837630) |
 | Patient Access Specialist - Part Time - Rotating Days and Evenings | Northwestern Memorial Healthcare | McHenry, IL, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162837939) |
@@ -126,16 +132,20 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Nursing Clinical Internship (NCI) / Clinic | Avera Health | Yankton, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Nursing-Clinical-Internship--NCI----Clinic_R-260031998) |
 | Medical Assistant - Part Time - UW Medicine Primary Care at Mountlake Terrace | University of Washington | Mountlake Terrace, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Mountlake-Terrace-WA/Medical-Assistant---Part-Time---UW-Medicine-Primary-Care-at-Mountlake-Terrace_REQ-0000139230-2) |
 | Patient Services Specialist - UW Medicine Primary Care at Belltown | University of Washington | Seattle, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Patient-Services-Specialist---UW-Medicine-Primary-Care-at-Belltown_REQ-0000139244-1) |
+| Pharmacy Technician | Palo Verde Cancer Specialists | Glendale, AZ |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683197) |
+| Associate Therapist I ( Job Fair ) | Sierra Meadows Behavioral Health | Fresno, CA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684352) |
+| Licensed Therapist I ( Job Fair ) | Sierra Meadows Behavioral Health | Fresno, CA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684360) |
+| Clinical Supervisor ( Job Fair ) | Sierra Meadows Behavioral Health | Sierra Meadows Behavioral Health |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684357) |
+| Medical Case Manager | Positive Impact Health Centers INC | Marietta, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682909) |
+| Clinical Psychologist - Tempe AZ | MRG Exams | Tempe, Arizona, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/43BEBAF69B) |
 | Clinical Practice Supervisor - days | Nexus Family Healing | East Bethel, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681655) |
 | Dental Assistant | Excel Dental | Everett, MA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678197) |
 | Patient Care Technician - Part time | Kearney County Health Services | Minden, NE |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683793) |
 | Behavioral Health Technician - Part-Time | Palmer Addiction Recovery Services | Tulsa, OK |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681261) |
 | Radiologic Technology/Limited Medical Radiography Faculty (FT) | The Sullivan University System Inc | Louisville, KY |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683890) |
-| Dental Assistant | ADP employer 1c3b0140 | Menomonie, WI, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c3b0140-d78f-4fbd-a557-eff5c30226e6&ccId=19000101_000001&jobId=609063&lang=en_US&source=CC2) |
-| Home Infusion Pharmacist | InfuCare Rx | West Palm Beach, FL, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1a3f5ce2-c4d8-470d-91ac-d9193526ba9f&ccId=19000101_000001&jobId=576422&lang=en_US&source=CC2) |
-| Home Infusion Pharmacist | InfuCare Rx | Boynton Beach, FL, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1a3f5ce2-c4d8-470d-91ac-d9193526ba9f&ccId=19000101_000001&jobId=576423&lang=en_US&source=CC2) |
-| Specimen Collector Phlebotomist - 1959 | Millennium Health | Columbus, Ohio, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/E20F428D6C) |
-| Master's Level Clinician | Mental Health Association - Western MA | Chicopee, Massachusetts, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/BCA1C06D68) |
+| Medical Assistant - Employee Health Services | baystatehealth | Springfield, Massachusetts |  | 2026-11-20 | [Apply](https://baystatehealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Springfield-Massachusetts/Medical-Assistant---Employee-Health-Services_R46283) |
+| Patient Service Rep Imaging | baystatehealth | Springfield, Massachusetts |  | 2026-11-20 | [Apply](https://baystatehealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Springfield-Massachusetts/Patient-Service-Rep-Imaging_R43644-1) |
+| Patient Service Rep - Rehab | baystatehealth | Springfield, Massachusetts |  | 2026-11-20 | [Apply](https://baystatehealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Springfield-Massachusetts/Patient-Service-Rep---Rehab_R45919) |
 | Patient Service Representative PRN | imh | Denver Midtown Clinic |  | 2026-11-20 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Denver-Midtown-Clinic/Patient-Service-Representative_R183983) |
 | Patient Care Technician CNA Neuro Trauma | imh | Intermountain Health Utah Valley Hospital |  | 2026-11-20 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Intermountain-Health-Utah-Valley-Hospital/Patient-Care-Technician-CNA-Neuro-Trauma_R190524) |
 | PRN Hospitalist | imh | Intermountain Health Utah Valley Hospital |  | 2026-11-20 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Intermountain-Health-Utah-Valley-Hospital/PRN-Hospitalist_R189906-1) |
@@ -183,6 +193,7 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Medical Assistant - 1H Alderwood | ZoomCare | Lynnwood, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/zoomcare/job/o2uCAfws) |
 | CNA - Night Shift | Lewiston of Cascadia, LLC | Lewiston, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4527839) |
 | Experienced Memory Care Direct Caregiver- CNA (Part-Time, PRN) | Holbrook Life Management | Sugar Hill, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682140) |
+| Full-time Night Shift Certified Nursing Assistant/Registered Medication Aide (C... | wc-br | Charlottesville, VA |  | 2026-11-20 | [Apply](https://jobs.lever.co/wc-br/e98ba238-1f9a-47e7-b108-215e4091d9a3) |
 | Physical Therapy Assistant (PTA) - Home Health - PRN | vitalcaringgroup | Southaven, Mississippi, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4513557009) |
 | Clinical Trial Leader | tangotherapeutics | Boston, MA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tangotherapeutics/jobs/8209355003) |
 | Float Nurse for Multiple Illinois Clinics | BAART Programs | Springfield, IL, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/baart-programs/job/oscVAfwT) |
@@ -194,17 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Corrections - Dental Assistant | DOCS Health | Rockville, MD |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656757) |
 | Corrections - Dental Assistant | DOCS Health | Barnstable, MA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656609) |
 | Part-Time Dental Assistant | DOCS Health | Woodstown, NJ |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3679491) |
-| Care Coordinator | COMHAR, Inc. | Philadelphia, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668079) |
-| Direct Support Professional- ICF | COMHAR, Inc. | Philadelphia, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4578490) |
-| Direct Support Professional- Day Program | COMHAR, Inc. | Philadelphia, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4536043) |
-| Home Care Physical Therapist-Per Diem (Nassau County) | USPhysicalTherapy2 | Franklinn Square, NY, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990017014656) |
-| Home Care Physical Therapist-Per Diem (Nassau County) | USPhysicalTherapy2 | Floral Park, NY, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990017014696) |
-| Intensive Care Coordinator – Youth & Family Mental Health | westcoastchildrensclinic | Oakland, CA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/westcoastchildrensclinic/jobs/6268175004) |
-| Home Health RN | welbehealth | Modesto, CA, USA |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/welbehealth/jobs/8950327002) |
-| Personal Care Assistant - Private Duty - League City | vitalcaringgroup | Missouri City, Texas, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4517044009) |
-| Physical Therapist (PT) - Home Health - PRN | vitalcaringgroup | Southaven, Mississippi, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vitalcaringgroup/jobs/4513551009) |
-| Patient Access Representative- Urgent Care | vailclinicincdbavailhealthhospital | Avon, Colorado, United States |  | 2026-11-20 | [Apply](https://www.vailhealth.org/careers/jobs/6268037004?gh_jid=6268037004) |
-| Medical Records Coordinator Outpatient Oncology | theoncologyinstitute | Cerritos, California, United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/theoncologyinstitute/jobs/8211076003) |
 <!-- JOBS_TABLE_END -->
 
 <details>
