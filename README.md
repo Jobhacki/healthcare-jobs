@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>60,632</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>59,057</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 08:18 UTC</sub>
+<sub>Snapshot 2026-11-23 12:19 UTC</sub>
 
 </div>
 
@@ -50,15 +50,18 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**60,632 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 08:18 UTC.** Apply links go to the employer's career page or hiring system.
+**59,057 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 12:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Healthcare Leader - US New England/Tri-State | Stantec | Boston, MA, United States |  | 2026-11-23 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008977) |
+| Patient Care Technician (PCT) - Float Pool - West Hospital | easyservice | Cincinnati, OH |  | 2026-11-23 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/Patient-Care-Technician--PCT----Float-Pool---West-Hospital_R291056) |
+| US Oncology Medical Lead, Lung | astrazeneca | US - Gaithersburg - MD |  | 2026-11-23 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Gaithersburg---MD/US-Oncology-Medical-Lead--Lung_R-264875) |
+| Medical Assistant | CVS Health | PA - Philadelphia |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Philadelphia/Medical-Assistant_R1077459-1) |
 | Consulting Associate – Healthcare Reimbursement | bakertilly | 49 Locations |  | 2026-11-23 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-PA-Remote/Consulting-Associate---Healthcare-Reimbursement_JR109062) |
 | Pharmacy Intern | CVS Health | NC - Durham |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Durham/Pharmacy-Intern_R1112369) |
 | Pharmacy Intern | CVS Health | OH - Ravenna |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Ravenna/Pharmacy-Intern_R1112368-1) |
-| Pharmacy Intern | CVS Health | CA - Galt |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Galt/Pharmacy-Intern_R1112367) |
 | Certified Medical Assistant/Clinical Care Coordinator - (New Lenox, IL) | jobsatphamily | New Lenox, IL |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5491841008) |
 | Health Information Specialist | datavant2 | Columbia, Missouri |  | 2026-11-23 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5475784008) |
 | Area Lead Health Information Specialist | datavant2 | Amarillo, Texas |  | 2026-11-23 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5465801008) |
@@ -88,8 +91,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Licensed Optician - Assistant Manager | National Vision | Phillipsburg, NJ, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163082891) |
 | Optometrist | National Vision | North Charleston, SC, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163086359) |
 | Radiology Technologist - Urgent Care Cincinnati Market | easyservice | Cincinnati, OH |  | 2026-11-22 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/Radiology-Technologist---Urgent-Care-Cincinnati-Market_R293538) |
-| Patient Access Coordinator - 1st shift | bhs | Elizabethtown, KY |  | 2026-11-22 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/Patient-Access-Coordinator---1st-shift_R26110120) |
-| DSP - Direct Support Professional - DAY PROGRAM - Mt. Kisco | ADP employer b9a704f8 | 699 MAIN ST MT KISCO, Mount Kisco, NY, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b9a704f8-784d-400c-ac2e-e8e493ac3769&ccId=19000101_000001&jobId=605822&lang=en_US&source=CC2) |
 | Psychotherapist - AI Training - Philippines | prolificacademicltd | Remote |  | 2026-11-21 | [Apply](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5043961101) |
 | Lead Medical Assistant | greenbrookmedical | Riverview, FL |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5491760008) |
 | Lead Medical Assistant | greenbrookmedical | Brandon, FL |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5491757008) |
@@ -105,8 +106,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Assistant Director of Patient Billing, Bureau of Revenue | City of New York | Long Island City, NY, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021976) |
 | Clinical Care Coordinator (MA) - (Bolingbrook, IL) | jobsatphamily | Bolingbrook, IL |  | 2026-11-21 | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5491703008) |
 | Product Performance Clinical Lead | abbott | United States - Minnesota - Plymouth |  | 2026-11-21 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---Plymouth/Product-Performance-Clinical-Lead_31168287-1) |
-| Medical Assistant PRN | bhs | Elizabethtown, KY |  | 2026-11-21 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/Medical-Assistant-PRN_R26110041) |
-| LMR Medical Assistant - PRN | bhs | Elizabethtown, KY |  | 2026-11-21 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Elizabethtown-KY/LMR-Medical-Assistant---PRN_R26110044) |
 | RN - Emergency Department - UW Medical Center-Northwest (Mid Shift) | University of Washington | Seattle, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/RN---Emergency-Department---UW-Medical-Center-Northwest--Mid-Shift-_REQ-0000138729) |
 | Behavior Clinician II - Habilitative Skill Building Program | Dungarvin | Tacoma, WA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162910329) |
 | Behavior Clinician II - Dialectical Behavior Therapy Program | Dungarvin | Tacoma, WA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Dungarvin/744000162907337) |
@@ -143,13 +142,18 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Nursing Clinical Internship (NCI) / Clinic | Avera Health | Yankton, SD |  | 2026-11-21 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Yankton-SD/Nursing-Clinical-Internship--NCI----Clinic_R-260031998) |
 | Medical Assistant - Part Time - UW Medicine Primary Care at Mountlake Terrace | University of Washington | Mountlake Terrace, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Mountlake-Terrace-WA/Medical-Assistant---Part-Time---UW-Medicine-Primary-Care-at-Mountlake-Terrace_REQ-0000139230-2) |
 | Patient Services Specialist - UW Medicine Primary Care at Belltown | University of Washington | Seattle, WA |  | 2026-11-21 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Patient-Services-Specialist---UW-Medicine-Primary-Care-at-Belltown_REQ-0000139244-1) |
-| Pharmacy Clerk | Riverwood Healthcare Center | Garrison, MN, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a7d85d0d-fc6b-44ce-9b96-3bcf63b801e7&ccId=19000101_000001&jobId=583753&lang=en_US&source=CC2) |
+| Phlebotomist: 40 Hours Per Week (AM) | Alverno Laboratories | Hoffman Estates, IL, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/alverno-laboratories/job/oHi6Afwp) |
+| Phlebotomist | Prolerity Clinical Research | New Jersey |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681218) |
+| Experienced in home caregivers needed Wadmalaw Island, SC. Paid weekly! | McLeod Home Care | Charleston, SC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667487) |
+| Caregivers needed in James Island, weekly pay! | McLeod Home Care | Charleston, SC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4095955) |
+| Medical Assistant | ADVENT | Woodmere, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656826) |
+| PRN Patient Service Representative | ADVENT | Indianapolis, IN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4616159) |
+| Medical Assistant | ADVENT | Franklin, TN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640386) |
 | Full-Time Day Shift Certified Nursing Assistant (CNA) | Larry H. Miller Senior Health (default) | Glendale, AZ |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682822) |
 | Certified Occupational Therapist Assistant (COTA) | Larry H. Miller Senior Health (default) | Mayfield Heights, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683423) |
 | Lead Certified Nursing Assistant (CNA) | Larry H. Miller Senior Health (default) | Colorado Springs, CO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683839) |
 | 1656 - Direct Support Professional | 339882 Bost Inc | Russellville, AR |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681460) |
 | 1657 - Direct Support Professional | 339882 Bost Inc | Fort Smith, AR |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683216) |
-| LPN-CMA/RMA- Primary Care Clinic | Riverwood Healthcare Center | Aitkin, MN, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a7d85d0d-fc6b-44ce-9b96-3bcf63b801e7&ccId=19000101_000001&jobId=585932&lang=en_US&source=CC2) |
 | Hospice RN Clinical Manager / Pierce and Kitsap Counties | ENVISION HOSPICE | Tacoma, WA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682382) |
 | Hospice RN Case Manager / Pierce County | ENVISION HOSPICE | Tacoma, WA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682419) |
 | Full-time Behavioral Health Technician 2nd shift | Evoraa Healthcare | Kingston, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682883) |
@@ -201,10 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Pharmacist | Sona Health, Inc. | Arden, NC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4666122) |
 | Phlebotomist (PRN) | Western Missouri Medical Center | Warrensburg, MO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682895) |
 | School Based Therapist CCST Program | Kitsap Mental Health Services | Bremerton, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/kitsapmentalhealth/job/oyr4Afwn) |
-| School Based Therapist - Central Kitsap High Schools | Kitsap Mental Health Services | Bremerton, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/kitsapmentalhealth/job/oUi8AfwE) |
-| Clinical Program Manager- Child and Family Outpatient Services | Kitsap Mental Health Services | Bremerton, WA, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/kitsapmentalhealth/job/oW68Afwu) |
-| CNA – 12-Hour Day Shift | MAINE VETERANS HOMES | South Paris, ME |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682381) |
-| Patient Services Representative | West Florida Medical Center Clinic PA | Gulf Breeze, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683194) |
 <!-- JOBS_TABLE_END -->
 
 <details>
