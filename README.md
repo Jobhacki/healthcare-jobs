@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>63,195</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>65,590</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-25 04:17 UTC</sub>
+<sub>Snapshot 2026-11-25 08:18 UTC</sub>
 
 </div>
 
@@ -50,15 +50,18 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**63,195 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**65,590 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 08:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Behavioral Health Clinician I | ADP employer 82b8410c | Alamosa, CO, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=82b8410c-20fe-4eaa-a39f-7868364ddae3&ccId=19000101_000001&jobId=563866&lang=en_US&source=CC2) |
-| Clinician, Youth ACT-Tarrytown, NY | Greater Mental Health of New York | Tarrytown, NY, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7fceb6d1-01f1-4a56-a7dc-f548b6c213d8&ccId=19000101_000001&jobId=669766&lang=en_US&source=CC2) |
-| Clinician, Bilingual-Rockland, NY | Greater Mental Health of New York | Valley Cottage, NY, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7fceb6d1-01f1-4a56-a7dc-f548b6c213d8&ccId=19000101_000001&jobId=669770&lang=en_US&source=CC2) |
-| Clinician | Greater Mental Health of New York | Tarrytown, NY, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7fceb6d1-01f1-4a56-a7dc-f548b6c213d8&ccId=19000101_000001&jobId=669773&lang=en_US&source=CC2) |
+| Medical Assistant | Everleap Fertility | Clive, IA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8802c141-7774-4099-8662-5e95ce71ab54&ccId=19000101_000001&jobId=967573&lang=en_US&source=CC2) |
+| Assurance Senior - Healthcare | bakertilly | 4 Locations |  | 2026-11-25 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/en-US/btcareers/job/USA-MA-Tewksbury/Assurance-Senior---Healthcare_JR109118) |
+| Acute Pharmacy Technician | bannerhealth | BUMC Tucson (1625 N Campbell Ave) |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Acute-Pharmacy-Technician_R4460974) |
+| Physical Therapist | lunaphysicaltherapy | La Jolla, CA |  | 2026-11-25 | [Apply](https://jobs.lever.co/lunaphysicaltherapy/33882720-28b8-4a99-9c5d-0bee73405486) |
+| Outpatient Psychiatrist TMS | lifestance | San Marcos, TX |  | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/d3434d05-5ac1-4963-93d7-ac365642dd6d) |
+| Licensed Professional Counselor (LPC) | lifestance | Frisco, TX |  | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/2ec1e4e9-0619-407d-9c8c-6c5626fd5151) |
+| Licensed Marriage Family Therapist (LMFT) | lifestance | Frisco, TX |  | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/9a081216-75cc-419b-b1cc-2a1b06e4e2d6) |
 | Clinical Pharmacist (MTM Support) - Bilingual Spanish | centene | 21 Locations |  | 2026-11-25 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-TX/Clinical-Pharmacist--MTM-Support----Bilingual-Spanish_1678370) |
 | Direct Support Professional | cfdsny | Glenville, NY |  | 2026-11-25 | [Apply](https://cfdsny.wd12.myworkdayjobs.com/en-US/cfds/job/Glenville-NY/Direct-Support-Professional_JR103907) |
 | Relief DSP | cfdsny | Albany, NY |  | 2026-11-25 | [Apply](https://cfdsny.wd12.myworkdayjobs.com/en-US/cfds/job/Albany-NY/Relief-DSP_JR103892) |
@@ -79,7 +82,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Registration & Scheduler- Gastro Shea | honorhealth |  |  | 2026-11-25 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Shea-Medical-Office-Building---9201-E-Mountain-View-Rd-Scottsdale-AZ-85258/Registration---Scheduler--Gastro-Shea_JR13866) |
 | Acute Patient Access Services Representative | bannerhealth | BUMC Tucson (1625 N Campbell Ave) |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Acute-Patient-Access-Services-Representative_R4461457) |
 | Acute Patient Access Services Representative | bannerhealth | BUMC South Tucson (2800 E Ajo Way) |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-South-Tucson-2800-E-Ajo-Way/Acute-Patient-Access-Services-Representative_R4461559) |
-| Patient Financial Service Rep Specialty Clinics | bannerhealth | Wyoming Specialty Clinics (McMurry Building, 419 S Washington, Suite... |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/Wyoming-Specialty-Clinics-McMurry-Building-419-S-Washington-Suite-201/Patient-Financial-Service-Rep-Specialty-Clinics_R4462127) |
 | Patient Care Technician - PCT CCHT - Dialysis | freseniusmedicalcare | CA339 FMCNA Union City - Clinic |  | 2026-11-25 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/CA339-FMCNA-Union-City---Clinic/Patient-Care-Technician---PCT-CCHT---Dialysis_R0263815) |
 | Patient Care Technician - PCT | freseniusmedicalcare | Minneapolis, MN |  | 2026-11-25 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Minneapolis-MN/Patient-Care-Technician---PCT_R0262902) |
 | Occupational Therapist | pacs |  |  | 2026-11-25 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/Mountain-View-Post-Acute---WA/Occupational-Therapist_JR191181-1) |
@@ -89,17 +91,13 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Patient Services Specialist - Sport Medicine Husky Stadium - UW Medical Center... | University of Washington | Seattle, WA |  | 2026-11-25 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Patient-Services-Specialist---Sport-Medicine-Husky-Stadium----UW-Medical-Center---Montlake_REQ-0000138996-1) |
 | Patient Services Specialist - Northwest Surgical Services and Hernia Center- UW... | University of Washington | Seattle, WA |  | 2026-11-25 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Patient-Services-Specialist---Northwest-Surgical-Services-and-Hernia-Center--UW-Medical-Center---Northwest_REQ-0000138914) |
 | Patient Services Specialist - Spine Center - UW Medical Center - Northwest | University of Washington | Seattle, WA |  | 2026-11-25 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Patient-Services-Specialist---Spine-Center----UW-Medical-Center-----Northwest_REQ-0000138607-2) |
+| Overnight Pharmacist: 7 day rotation / 3 of 7 nights Remote | DeliverCareRx | Mount Prospect Location , Mount Prospect, IL, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=89423d84-5c1b-46b0-94e8-2ed784c53478&ccId=19000101_000001&jobId=587803&lang=en_US&source=CC2) |
+| Centralized Patient Scheduler Team Lead | Everleap Fertility | San Francisco, CA, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8802c141-7774-4099-8662-5e95ce71ab54&ccId=19000101_000001&jobId=967853&lang=en_US&source=CC2) |
+| Per Diem Sonographer (OB/GYN) – Albany, NY | Everleap Fertility | Albany, NY, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8802c141-7774-4099-8662-5e95ce71ab54&ccId=19000101_000001&jobId=965767&lang=en_US&source=CC2) |
+| Regional Medical Director | Encoded Therapeutics | US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/223FF26663) |
 | Dental Hygienist | Bayview Dental Associates | Sun City Center, FL |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689659) |
 | Dental Assistant | Bayview Dental Associates | Venice, FL |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3078023) |
 | Dental Assistant | Bayview Dental Associates | Bradenton, FL |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2669523) |
-| Physical Therapist | ADP employer 82b8410c | Alamosa, CO, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=82b8410c-20fe-4eaa-a39f-7868364ddae3&ccId=19000101_000001&jobId=552915&lang=en_US&source=CC2) |
-| CMA - Women's Health Clinic | ADP employer 82b8410c | Alamosa, CO, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=82b8410c-20fe-4eaa-a39f-7868364ddae3&ccId=19000101_000001&jobId=563462&lang=en_US&source=CC2) |
-| Physician Practice Representative - Pediatric Pulmonology | KIDZ | Miami, FL, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7976ce37-cbe5-4f81-9fcf-5d1e8664a6fe&ccId=19000101_000001&jobId=600461&lang=en_US&source=CC2) |
-| Dental Assistant II | Lane & Associates | Durham, NC, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7821db1d-efa6-440f-a7e7-291622846f9c&ccId=19000101_000001&jobId=562209&lang=en_US&source=CC2) |
-| Head Dental Assistant | Lane & Associates | Pittsboro, NC, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7821db1d-efa6-440f-a7e7-291622846f9c&ccId=19000101_000001&jobId=562210&lang=en_US&source=CC2) |
-| Pediatric Physical Therapist (PT) | CrewBloom | Colorado Springs, Colorado, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/F6273F6957) |
-| Pediatric Occupational Therapist (OT) | CrewBloom | Colorado Springs, Colorado, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/764DB37842) |
-| Regional Medical Director, Maryland & Delaware | Aledade | Bethesda, MD |  | 2026-11-24 | [Apply](https://jobs.lever.co/aledade/a51d2022-124b-47cf-8962-87eb3cd17e78) |
 | Hospice RN Case Manager (Loudoun / Fairfax County, VA) | ennoblecare | Loudoun / Fairfax County, VA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/ennoblecare/jobs/4732154006) |
 | Hospice Per Diem RN (Arlington County, VA) | ennoblecare | Arlington County, VA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/ennoblecare/jobs/4732155006) |
 | Patient Billing Associate (Temporary) | BillionToOne | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/billiontoone/jobs/4748601005) |
@@ -205,6 +203,8 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Clinical Educator and Infection Preventionist | AsburyCommunities | Erie, PA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AsburyCommunities/744000163545971) |
 | Behavior Technician (BT) | Finni Health | Portsmouth, Virginia | $23/hr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/finni-health/9e92fd1d-a253-4619-a6bf-f8d603ada18c) |
 | Direct Support Professional | Kalix | MINOT, ND |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684066) |
+| Clinical Trial Naviagtor I | javararesearch | Fayetteville, NC |  | 2026-11-24 | [Apply](https://javararesearch.wd12.myworkdayjobs.com/en-US/external_career_site/job/Fayetteville-NC/Clinical-Trial-Naviagtor-I_R-100288) |
+| Clinical Trial Navigator II | javararesearch | Fayetteville, GA |  | 2026-11-24 | [Apply](https://javararesearch.wd12.myworkdayjobs.com/en-US/external_career_site/job/Fayetteville-GA/Clinical-Trial-Navigator-II_R-100290) |
 <!-- JOBS_TABLE_END -->
 
 <details>
