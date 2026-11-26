@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>65,089</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>66,381</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 00:19 UTC</sub>
+<sub>Snapshot 2026-11-26 04:17 UTC</sub>
 
 </div>
 
@@ -50,14 +50,23 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**65,089 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 00:19 UTC.** Apply links go to the employer's career page or hiring system.
+**66,381 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Patient Care Coordinator | CCRM | Chicago, IL, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&jobId=668169&lang=en_US&source=CC2) |
-| Patient Financial Counselor | CCRM | Edina, MN, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&jobId=550567&lang=en_US&source=CC2) |
-| Patient Care Coordinator | CCRM | CO -Denver (Rose), Denver, CO, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&jobId=546653&lang=en_US&source=CC2) |
+| PHLEBOTOMIST PT | A-Team Solutions LLC | Daytona Beach, FL, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eb23e9d0-0921-458b-9544-adc0f893a19b&ccId=19000101_000001&jobId=585933&lang=en_US&source=CC2) |
+| Grad Intern - Global Medical Affairs Thoracic Oncology (Summer 2027) | amgen | United States - Remote |  | 2026-11-26 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Global-Medical-Affairs-Thoracic-Oncology--Summer-2027-_R-261965) |
+| (USA) Clinical Services Pharmacy Technician - Sam’s Club | Walmart | Douglasville, GA |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Douglasville-GA/XMLNAME--USA--Clinical-Services-Pharmacy-Technician---Sam-s-Club_R-2722245) |
+| (USA) Pharmacy Manager | Walmart | (USA) TX ROUND ROCK 00475 WM SUPERCENTER |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-ROUND-ROCK-00475-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Manager_R-2721748) |
+| Pharmacy Intern - Grad | CVS Health | DC - Washington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DC---Washington/Pharmacy-Intern---Grad_R1115407) |
+| Pharmacy Technician | CVS Health | AL - Gadsden |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Gadsden/Pharmacy-Technician_R1114137) |
+| Pharmacy Technician | CVS Health | MS - Oxford |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MS---Oxford/Pharmacy-Technician_R1114065) |
+| Clinic Medical Assistant (MA-C) - Orthopedics - Full Time (40 hours/week) | KittitasValleyHealthcare | Ellensburg, WA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/KittitasValleyHealthcare/744000163776495) |
+| Front Line(08870) - 2410 DeKalb Medical Pkwy | Domino's | Lithonia, GA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163790890) |
+| Speech-Language Pathologist | expressable | Maryland | $40-54/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/expressable/14b92e42-03a8-42f8-8ebe-8b0105bc27e5) |
+| Speech-Language Pathologist | expressable | Tennessee |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/expressable/f965f12d-6a02-44ec-bfe7-67793e362efa) |
+| Speech-Language Pathologist | expressable | Texas | $40-54/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/expressable/1b981d13-60ef-4ee4-aa1b-adc7d13f8665) |
 | Clinical Therapist (may underfill as Senior Mental Health Counselor) - Crisis I... | waukeshacounty | Waukesha, WI |  | 2026-11-26 | [Apply](https://waukeshacounty.wd12.myworkdayjobs.com/en-US/careers/job/Waukesha-WI/Clinical-Therapist--may-underfill-as-Senior-Mental-Health-Counselor----Crisis-Intervention-Services_JR100953) |
 | Pharmacy Resident | centene | Remote-FL |  | 2026-11-26 | [Apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-FL/Pharmacy-Resident_1677335) |
 | Patient Coordinator | akumincorp | 2 Locations |  | 2026-11-26 | [Apply](https://akumincorp.wd5.myworkdayjobs.com/en-US/akumincareers/job/Brandon-FL/Patient-Coordinator_2026-8812) |
@@ -81,15 +90,10 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Physical Therapist Assistant (PTA) | pacs |  |  | 2026-11-26 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/San-Francisco-Post-Acute/Physical-Therapist-Assistant--PTA-_JR191315) |
 | CNA | pacs |  |  | 2026-11-26 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/Mountain-View-Post-Acute---WA/CNA_JR189241) |
 | Staff Pharmacist - $25,000 Sign On Bonus | Walmart | (USA) FL MELBOURNE 01702 WM SUPERCENTER |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-MELBOURNE-01702-WM-SUPERCENTER/Staff-Pharmacist----25-000-Sign-On-Bonus_R-2721773) |
-| Pharmacy Manager - $25,000 Sign On Bonus | Walmart | (USA) FL MELBOURNE 03538 WM SUPERCENTER |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-FL-MELBOURNE-03538-WM-SUPERCENTER/Pharmacy-Manager----25-000-Sign-On-Bonus_R-2721758) |
-| Staff Pharmacist | Walmart | Sparks, NV |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Sparks-NV/Staff-Pharmacist_R-2721028-1) |
 | Radiology Assistant - CT | Sanford Health | ND, Bismarck |  | 2026-11-26 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/ND-Bismarck/Radiology-Assistant---CT_R-0282076-1) |
 | Physician / General Radiation Oncologist / Clarion Hospital / WVU Medicine | WVU Medicine | Clarion PA Region |  | 2026-11-26 | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/en-US/WVUH/job/Clarion-PA-Region/Physician---General-Radiation-Oncologist---Clarion-Hospital---WVU-Medicine_JR26-51065) |
 | Physician / Radiation Oncologist / Butler Memorial Hospital | WVU Medicine | Butler PA Region |  | 2026-11-26 | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/en-US/WVUH/job/Butler-PA-Region/Physician---Radiation-Oncologist---Butler-Memorial-Hospital_JR26-51067-1) |
 | Physician / Hematology Oncology - Butler Memorial Hospital | WVU Medicine | Butler PA Region |  | 2026-11-26 | [Apply](https://wvumedicine.wd1.myworkdayjobs.com/en-US/WVUH/job/Butler-PA-Region/Physician---Hematology-Oncology---Butler-Memorial-Hospital_JR26-51068) |
-| District Support Pharmacist Part Time | CVS Health | MS - Jackson |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MS---Jackson/District-Support-Pharmacist-Part-Time_R1114583) |
-| Pharmacy Intern - Grad | CVS Health | DE - Wilmington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DE---Wilmington/Pharmacy-Intern---Grad_R1115196) |
-| Pharmacy Technician | CVS Health | TX - Dallas |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Dallas/Pharmacy-Technician_R1114883) |
 | Patient Services Assistant / Occupational Medicine / PRN | Avera Health | Aberdeen, SD |  | 2026-11-26 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Aberdeen-SD/Patient-Services-Assistant---Occupational-Medicine---PRN_R-260032146) |
 | Physical Therapist (PT) / PRN | Avera Health | Aberdeen, SD |  | 2026-11-26 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Aberdeen-SD/Physical-Therapist--PT----PRN_R-260029374) |
 | Patient Care Technician (PCT) / MCK Oncology | Avera Health | Sioux Falls, SD |  | 2026-11-26 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Sioux-Falls-SD/Patient-Care-Technician--PCT----MCK-Oncology_R-260026058) |
@@ -97,6 +101,13 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Advanced Practice Clinician/RNFA for Cardiac Surgery | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-26 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Advanced-Practice-Clinician-RNFA-for-Cardiac-Surgery_REQ-0040277) |
 | Remote Optometrist | National Vision | Roseville, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775064) |
 | Remote Optometrist | National Vision | Stratford, CT, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775699) |
+| Direct Support Professional (DSP) Adult Training for Intellectual Disabilities... | Skills of Central Pennsylvania Inc | Altoona, PA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693080) |
+| Pharmacy Buyer/Tech - Per Diem | St. James Hospital | Hornell, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4407137) |
+| Referral Coordinator | greenbrookmedical | New Port Richey, FL |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5495094008) |
+| Behavioral Health Care Coordinator / Scheduler | ennoblecare | Oklahoma City, OK |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ennoblecare/jobs/4732393006) |
+| Therapist (LICSW, LMHC,LMFT) | lifestance | Lynnfield, MA |  | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/c8644aac-170d-4f91-9506-9ed884b29416) |
+| Therapist (LICSW, LMHC, LMFT)- Child or Adult | lifestance | Quincy, MA | $75k-100k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/2d9ce43e-c2c4-43cb-b293-c8b3dcd06d37) |
+| Therapist (LICSW, LMHC, LMFT) | lifestance | Groton, MA | $75k-100k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/32924cd0-83a0-4cea-85b1-e6196af52cf3) |
 | Licensed Dental Assistant | Clear Lakes Dental Franchise | Columbus, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694463) |
 | Unlicensed Dental Assitant | Clear Lakes Dental Franchise | Polaris-OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693639) |
 | Patient Care Coordinator | Clear Lakes Dental Franchise | Columbus, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693618) |
@@ -130,7 +141,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Hyperbaric Technologist - Hyperbaric Oxygen Therapist RT (Manistee & Traverse C... | Munson Healthcare | Manistee, Michigan, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990017098166) |
 | Nursing Technician - Substance Use - PT (.6) - Days | luminishealth | Annapolis, MD |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/luminishealth/jobs/5464999008?gh_jid=5464999008) |
 | Assessment Therapist | lighthousebehavioralhealthsolutions | Columbus, Ohio |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/lighthousebehavioralhealthsolutions/jobs/5494880008) |
-| Outpatient Physical Therapist | highbarhealth | Cranston, RI | $80k-100k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/highbarhealth/8781d0c5-4c97-4aa6-813a-110c74120beb) |
 | PRN Registered Dietitian | headlandsresearch | San Diego, California |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/headlandsresearch/jobs/4524171009) |
 | Personal Care Attendant | habitathealth | Sacramento, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/habitathealth/jobs/5494930008) |
 | Pharmacist (Part Time) | greenthumbindustries | Lynchburg, Virginia, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/greenthumbindustries/jobs/8406789) |
@@ -195,16 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | IOP Phlebotomist | Labcorp | Auburn AL |  | 2026-11-25 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Auburn-AL/IOP-Phlebotomist_2641441) |
 | Patient Access Representative (Full Time - Days) Frankford Outpatient | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-25 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Patient-Access-Representative--Full-Time---Days--Frankford-Outpatient_REQ-0040738) |
 | Speech Language Pathologist - UW Medical Center - Montlake (Per Diem, Days) | University of Washington | Seattle, WA |  | 2026-11-25 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Speech-Language-Pathologist---UW-Medical-Center---Montlake--Per-Diem--Days-_REQ-0000138766-2) |
-| Clinical Laboratory Technician 1, UWMC Northwest Specimen Processing | University of Washington | Seattle, WA |  | 2026-11-25 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Clinical-Laboratory-Technician-1--UWMC-Northwest-Specimen-Processing_REQ-0000138864-2) |
-| Clinical Laboratory Technician 1 | University of Washington | Seattle, WA |  | 2026-11-25 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Clinical-Laboratory-Technician-1_REQ-0000133860) |
-| Physical Therapist | workrightnw | Delavan, WI |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/workrightnw/jobs/4523943009) |
-| Collaborating / Supervising Physician (contract) - OK | workithealth | Remote - United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/workithealth/jobs/4511513009) |
-| Collaborating / Supervising Physician (contract) - OH | workithealth | Remote - United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/workithealth/jobs/4512469009) |
-| Medical Director - Bel Air, MD | veterinaryemergencygroupst | Bel Air, Maryland, United States |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6234001004?gh_jid=6234001004) |
-| Physical Therapist - Industrial Rehabilitation | urpt | Lakewood, WA |  | 2026-11-25 | [Apply](https://yourfuture.urpt.com/job/5306396007/?gh_jid=5306396007) |
-| Physical Therapy Assistant | USPhysicalTherapy2 | Katy, TX, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990017093016) |
-| PRN RN Case Manager (Hospice) | silverado | Austin, Texas |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5308789007) |
-| Part Time Caregiver (PM) | silverado | Alexandria, Virginia |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/silverado/jobs/5309479007) |
 <!-- JOBS_TABLE_END -->
 
 <details>
