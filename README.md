@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>66,219</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>65,574</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 08:18 UTC</sub>
+<sub>Snapshot 2026-11-26 12:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,15 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**66,219 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 08:18 UTC.** Apply links go to the employer's career page or hiring system.
+**65,574 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Patient Care Technician - PCT | freseniusmedicalcare | Ewa Beach, HI |  | 2026-11-26 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Ewa-Beach-HI/Patient-Care-Technician---PCT_R0278943) |
+| Medical Director of Behavioral Health | City of New York | New York City, NY, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017103071) |
+| Junior Public Health Nurse, Bureau of School Health | City of New York | Long Island City, NY, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017103356) |
+| Junior Public Health Nurse, Bureau of School Health | City of New York | Long Island City, NY, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017103616) |
 | Patient Experience Coordinator (Onsite), Front Office Avondale Clinic | bcbsaz | Prosano Avondale 9321 West Thomas Rd Phoenix, AZ 85037 |  | 2026-11-26 | [Apply](https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/Prosano-Avondale-9321-West-Thomas-Rd-Phoenix-AZ-85037/Patient-Experience-Coordinator--Onsite---Front-Office-Avondale-Clinic_R6363) |
 | X-Ray Tech - The Jewish Hospital | easyservice | Cincinnati, OH |  | 2026-11-26 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/X-Ray-Tech---The-Jewish-Hospital_R293948) |
 | X Ray Tech - Weekend Option- The Jewish Hospital | easyservice | Cincinnati, OH |  | 2026-11-26 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/X-Ray-Tech---Weekend-Option--The-Jewish-Hospital_R293949) |
@@ -88,7 +92,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Dental Assistant | aspendental | Bedford, New Hampshire |  | 2026-11-26 | [Apply](https://aspendental.wd1.myworkdayjobs.com/en-US/careers_aspen_dental/job/Bedford-New-Hampshire/Dental-Assistant_R2026-014594) |
 | Patient Care Technician - PCT CCHT - Dialysis | freseniusmedicalcare | Enola, PA |  | 2026-11-26 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Enola-PA/Patient-Care-Technician---PCT-CCHT---Dialysis_R0279189) |
 | Patient Care Technician - PCT | freseniusmedicalcare | South Hill, VA |  | 2026-11-26 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/South-Hill-VA/Patient-Care-Technician---PCT_R0270757) |
-| Patient Care Technician - PCT | freseniusmedicalcare | Houston, TX |  | 2026-11-26 | [Apply](https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Houston-TX/Patient-Care-Technician---PCT_R0277845) |
 | Physical Therapist (PT) – PRN | pacs |  |  | 2026-11-26 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/San-Francisco-Post-Acute/Physical-Therapist--PT----PRN_JR191311) |
 | Physical Therapist Assistant (PTA) | pacs |  |  | 2026-11-26 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/San-Francisco-Post-Acute/Physical-Therapist-Assistant--PTA-_JR191315) |
 | CNA | pacs |  |  | 2026-11-26 | [Apply](https://pacs.wd108.myworkdayjobs.com/en-US/pacs/job/Mountain-View-Post-Acute---WA/CNA_JR189241) |
@@ -104,6 +107,19 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Advanced Practice Clinician/RNFA for Cardiac Surgery | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-26 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Advanced-Practice-Clinician-RNFA-for-Cardiac-Surgery_REQ-0040277) |
 | Remote Optometrist | National Vision | Roseville, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775064) |
 | Remote Optometrist | National Vision | Stratford, CT, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775699) |
+| Certified Nursing Aide (CNA) – Pediatric Home Health | Angels of Care Pediatric Home Health | Macon, GA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/angelsofcare/job/oMS8Afw6) |
+| Pediatric Speech Language Pathologist (Therapist - SLP) | Angels of Care Pediatric Home Health | Fort Worth, TX, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/angelsofcare/job/odc9BfwT) |
+| Licensed Vocational Nurse (LVN) – Pediatric Home Health | Angels of Care Pediatric Home Health | Fort Worth, TX, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/angelsofcare/job/oSg9BfwC) |
+| MRI Technologist, Inpatient, 10K Bonus | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-25 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=989513&lang=en) |
+| Clinical Denial Management Specialist I | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-25 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=260000N6&lang=en) |
+| Oncology RN - Transplant Cellular Therapy Clinic | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-25 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=989203&lang=en) |
+| Patient Svc Navigator (FR) | Northwell Health | Valley Stream, Nassau, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204866) |
+| Patient Svc Navigator (FR) | Northwell Health | Valley Stream, Nassau, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204448) |
+| Medical Assistant | Northwell Health | Brooklyn, Kings, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204328) |
+| Constant Patient Observer Full Time / 2nd shift/ Overnight / $24/hr | Securitas | Providence, RI, United States |  | 2026-11-25 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177640) |
+| Surgical Clinical Adoption Manager - New York | Hologic | New York, NY, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12813) |
+| Dental Assistant (Fontana) | Dental Dreams | Fontana, CA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=057a139b-6aeb-401d-a4b5-72c6ce0c8831&ccId=19000101_000001&jobId=585873&lang=en_US&source=CC2) |
+| Occupational Therapist (Hand Therapist) - Astoria | spear | Astoria, New York | $88k-120k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/spear/78ae3bd9-9ec1-4869-b33d-991561d509b7) |
 | Surgery Scheduler/Surgery Counselor | Ascend Vision Partners | Winter Haven, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4563141) |
 | Dental Hygienist | Appalachian Mountain Community Health Centers | Black Mountain, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681346) |
 | Practice Supervisor - Medical | Appalachian Mountain Community Health Centers | Black Mountain, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681208) |
@@ -111,15 +127,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Dental Assistant/PRN | Heritage Health | Coeur d'Alene, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686656) |
 | Dental Assistant /$2,500 Bonus/Part-Time | Heritage Health | Coeur d'Alene, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686641) |
 | Dental Assistant /$5,000 Bonus/Full-Time | Heritage Health | Coeur d'Alene, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686619) |
-| Behavioral Health Technician Supervisor | SunCloud Health | Bellevue, WA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fe48f5fe-3ab2-456b-8a56-30904789c101&ccId=19000101_000001&jobId=592599&lang=en_US&source=CC2) |
-| Part Time Patient Care Coordinator | Professional Physical Therapy | Brooklyn Heights, New York, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/BB298FD132) |
-| Personal Care Attendant West San Antonio | Pride PHC Services | San Antonio, Texas, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/928E7C0478) |
-| Personal Care Attendant | Pride PHC Services | Pearsall, Texas, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/91819B4C1D) |
-| Experienced Personal Care Attendant-78230 | Pride PHC Services | San Antonio, Texas, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/875A5113CB) |
-| Veteran Caregiver Part Time Afternoons | Phoenix Home Care and Hospice | Sweet Springs, Missouri, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/163FAE9967) |
-| Veteran Caregiver Part Time | Phoenix Home Care and Hospice | Vandalia, Missouri, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/E6EBAAD241) |
-| Part Time Weekend Caregiver | Phoenix Home Care and Hospice | Jefferson City, Missouri, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/D35B9931C4) |
-| Float Advanced Practice Clinician | pplm | Central MA | $54.59/hr | 2026-11-25 | [Apply](https://jobs.lever.co/pplm/3c2b7956-7f74-42eb-b173-1ecdad3619f4) |
 | Direct Support Professional (DSP) Adult Training for Intellectual Disabilities... | Skills of Central Pennsylvania Inc | Altoona, PA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693080) |
 | Pharmacy Buyer/Tech - Per Diem | St. James Hospital | Hornell, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4407137) |
 | Referral Coordinator | greenbrookmedical | New Port Richey, FL |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5495094008) |
@@ -162,9 +169,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Pharmacist (Part Time) | greenthumbindustries | Lynchburg, Virginia, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/greenthumbindustries/jobs/8406789) |
 | Certified Home Health Aide (Hunterdon / Warren County, NJ) | ennoblecare | Hunterdon / Warren County, NJ |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ennoblecare/jobs/4732329006) |
 | Leave Replacement - School-Based Mental Health Clinician/Social Worker | effectiveschoolsolutions | Cromwell, Connecticut |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/effectiveschoolsolutions/jobs/4758757005) |
-| New Grad - Physician Assistant (PA) - Urgent Care | convenientmd | Nashua, New Hampshire, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/convenientmd/jobs/5495012008) |
-| New Grad - Physician Assistant (PA) - Urgent Care | convenientmd | Ludlow, Massachusetts, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/convenientmd/jobs/5495016008) |
-| New Grad - Physician Assistant (PA) - Urgent Care | convenientmd | Agawam, Massachusetts, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/convenientmd/jobs/5494958008) |
 | Mental Health Therapist (Full Time, BED) | connectionshealthsolutions | Phoenix, Arizona, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4524422009) |
 | CA Remote Mental Health Therapist | meetmarvin | CA | $60-80/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/meetmarvin/fddd2408-9ca6-48a6-8e7d-c1af1b8cb89a) |
 | RN Home Health Manager | bayada | Falls Church, VA 22041 / 38.847800041 / -77.130925506 |  | 2026-11-25 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8962976002) |
@@ -201,10 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Medical Assistant | marathonhealth | IN-Bloomington |  | 2026-11-25 | [Apply](https://marathonhealth.wd501.myworkdayjobs.com/en-US/marathon-health-careers/job/IN-Bloomington/Medical-Assistant_JR109405) |
 | Medical Assistant ENT Clinic | honorhealth |  |  | 2026-11-25 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Medical-Office-Building---14040-North-Northsight-Boulevard-Scottsdale-AZ-85260/Medical-Assistant-ENT-Clinic_JR13622) |
 | Registration & Scheduler- Gastro Sonoran | honorhealth |  |  | 2026-11-25 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Sonoran-Medical-Office-Building---33300-N-32nd-Ave-Phoenix-AZ-85085/Registration---Scheduler--Gastro-Sonoran_JR13981) |
-| Registration & Scheduler- Primary Care TPK | honorhealth |  |  | 2026-11-25 | [Apply](https://honorhealth.wd12.myworkdayjobs.com/en-US/honorhealth_careers/job/Medical-Office-Building---20745-N-Scottsdale-Rd-Scottsdale-AZ-85255/Registration---Scheduler--Primary-Care-TPK_JR13760) |
-| Clinical Trial Manager RWLP | syneoshealth | USA-NC-Remote |  | 2026-11-25 | [Apply](https://syneoshealth.wd12.myworkdayjobs.com/en-US/syneos_health_external_site/job/USA-NC-Remote/Clinical-Trial-Manager-RWLP_25114959) |
-| RN - Medical ICU | carilionclinic | Roanoke, Virginia |  | 2026-11-25 | [Apply](https://carilionclinic.wd12.myworkdayjobs.com/en-US/external_careers/job/Roanoke-Virginia/RN---Medical-ICU_R161291-1) |
-| RN I - Medical ICU | carilionclinic | Roanoke, Virginia |  | 2026-11-25 | [Apply](https://carilionclinic.wd12.myworkdayjobs.com/en-US/external_careers/job/Roanoke-Virginia/RN-I---Medical-ICU_R161585) |
 <!-- JOBS_TABLE_END -->
 
 <details>
