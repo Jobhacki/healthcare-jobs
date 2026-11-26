@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>65,740</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>66,364</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 16:18 UTC</sub>
+<sub>Snapshot 2026-11-26 20:19 UTC</sub>
 
 </div>
 
@@ -50,19 +50,18 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**65,740 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 16:18 UTC.** Apply links go to the employer's career page or hiring system.
+**66,364 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 20:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Bilingual Patient Coordinator (English & Spanish) | Community Clinic | Pea Ridge, AR, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=102b6d5e-4045-46b7-a5d5-3dfdcf08d104&ccId=19000101_000001&jobId=635587&lang=en_US&source=CC2) |
-| Bilingual Medical Assistant (Spanish/English) | Community Clinic | Pea Ridge, AR, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=102b6d5e-4045-46b7-a5d5-3dfdcf08d104&ccId=19000101_000001&jobId=635588&lang=en_US&source=CC2) |
-| Medical Assistant (Bilingual English & Spanish) | Community Clinic | Siloam Springs, AR, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=102b6d5e-4045-46b7-a5d5-3dfdcf08d104&ccId=19000101_000001&jobId=635589&lang=en_US&source=CC2) |
+| Radiologic Technologist | gohealthuc | Mechanicsburg - Mechanicsburg, PA |  | 2026-11-26 | [Apply](https://gohealthuc.wd12.myworkdayjobs.com/en-US/external/job/Mechanicsburg---Mechanicsburg-PA/Radiologic-Technologist_JR113369) |
+| Radiologic Technologist | gohealthuc | Carlisle - Carlisle, PA |  | 2026-11-26 | [Apply](https://gohealthuc.wd12.myworkdayjobs.com/en-US/external/job/Carlisle---Carlisle-PA/Radiologic-Technologist_JR113370) |
+| Pharmacy Technician | CVS Health | NY - Woodstock |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Woodstock/Pharmacy-Technician_R1115387) |
+| Pharmacy Technician | CVS Health | NY - Latham |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Latham/Pharmacy-Technician_R1114972) |
+| Pharmacy Technician | CVS Health | NY - Farmingdale |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Farmingdale/Pharmacy-Technician_R1114643) |
 | Pharmacy Tech Certified Sam's | Walmart | Davenport, FL |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Davenport-FL/Pharmacy-Tech-Certified-Sam-s_R-2721453) |
 | Pharmacy Tech Sam's - PT | Walmart | Davenport, FL |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Davenport-FL/Pharmacy-Tech-Sam-s---PT_R-2721458) |
-| Pharmacy Technician | CVS Health | AL - Madison |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Madison/Pharmacy-Technician_R1114712) |
-| Pharmacy Technician | CVS Health | AZ - Phoenix |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Phoenix/Pharmacy-Technician_R1115331) |
-| Pharmacy Technician | CVS Health | AZ - Phoenix |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Phoenix/Pharmacy-Technician_R1115317-1) |
 | RBT / ABA Therapist: In-Home, Bronx, NY (10462) | oosmanagementcorp | Bronx, New York (10462) |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/oosmanagementcorp/jobs/4524962009) |
 | RBT / ABA Therapist: Center-Based & In-Home, Bayside, Queens NY | oosmanagementcorp | Bayside, Queens (11364) |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/oosmanagementcorp/jobs/4524956009) |
 | Senior Director, Clinical Operations Excellence | dynetherapeutics | Waltham, MA |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/dynetherapeutics/jobs/6271492004) |
@@ -114,18 +113,25 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Advanced Practice Clinician/RNFA for Cardiac Surgery | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-26 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Advanced-Practice-Clinician-RNFA-for-Cardiac-Surgery_REQ-0040277) |
 | Remote Optometrist | National Vision | Roseville, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775064) |
 | Remote Optometrist | National Vision | Stratford, CT, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775699) |
+| Occupational Therapist - FT and PRN | SLP Operations, LLC | Snyder, TX |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695062) |
+| Physical Therapist (PT) FT and PRN | SLP Operations, LLC | Snyder, TX |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695059) |
+| Physical Therapist Assistant (PTA) FT and PRN | SLP Operations, LLC | Snyder, TX |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695048) |
+| Clinical Director | Odyssey House Inc. | Salt Lake, UT |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694012) |
+| Certified Clinical Perfusionist | PERFUSION SOLUTION INC | Columbus, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693457) |
+| Physical Therapist Assistant - PTA Home Health | Jet Health | Boise, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694724) |
+| RN - OR Circulator - Surgical Services, FT, M-F 6:30a-3p with Call | Johnson Regional Medical Center | Clarksville, AR |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694768) |
+| Weekend Warrior Aide/CNA | AdvisaCare | Lansing, Michigan, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/559024F8E3) |
+| Speech Language Pathologist- Part-time/PRN | AdvisaCare | Lansing, Michigan, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/9F3507B5DE) |
+| Physical Therapist | AdvisaCare | Lansing, Michigan, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/A25BCC5793) |
+| Medical Records Technician - Middlesex County, NJ (6817) | Advantmed | East Brunswick, New Jersey, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/9E29948FC3) |
+| Personal Care Attendant | AdvantageCare Home Health | Texarkana, Texas, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/206224C2F5) |
+| Personal Care Attendant | AdvantageCare Home Health | Sulphur Springs, Texas, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/A5BDC031EC) |
 | Physical Therapist | BIG STONE THERAPIES INC | Watertown, SD |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693822) |
 | Patient Access Supervisor | PAX Health LLC | Mahwah, NJ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693685) |
 | Medical Assistant | Advanced Urology Institute LLC | Largo, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689464) |
 | Medical Assistant | Advanced Urology Institute LLC | Inverness, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685223) |
 | Medical Assistant | Advanced Urology Institute LLC | Lecanto, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681423) |
 | Clinical Director (Outpatient Programs) | Telos | Orem, UT |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693345) |
-| Home Infusion Pharmacist - Part Time Afternoons | InfuCare Rx | Aston, PA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1a3f5ce2-c4d8-470d-91ac-d9193526ba9f&ccId=19000101_000001&jobId=575811&lang=en_US&source=CC2) |
-| Home Infusion Pharmacist - Part Time Mornings | InfuCare Rx | Aston, PA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1a3f5ce2-c4d8-470d-91ac-d9193526ba9f&ccId=19000101_000001&jobId=575810&lang=en_US&source=CC2) |
-| Pharmacist | InfuCare Rx | West Palm Beach, FL, West Palm Beach, FL, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1a3f5ce2-c4d8-470d-91ac-d9193526ba9f&ccId=19000101_000001&jobId=573841&lang=en_US&source=CC2) |
-| Behavioral Health Care Manager | Family Health Center of Worcester | Worcester, MA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=15e3290c-4c45-4cd9-8c4a-e4be75d51504&ccId=19000101_000001&jobId=656387&lang=en_US&source=CC2) |
-| Patient Services Representative | Family Health Center of Worcester | Worcester, MA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=15e3290c-4c45-4cd9-8c4a-e4be75d51504&ccId=19000101_000001&jobId=656509&lang=en_US&source=CC2) |
-| Medical Assistant (Delaware County - Havertown & Ridley Park) | ADP employer 0ca40333 | Havertown, PA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0ca40333-f0fe-4aa6-adad-68a58606a9db&ccId=19000101_000001&jobId=567708&lang=en_US&source=CC2) |
 | Certified Nursing Aide (CNA) – Pediatric Home Health | Angels of Care Pediatric Home Health | Macon, GA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/angelsofcare/job/oMS8Afw6) |
 | Pediatric Speech Language Pathologist (Therapist - SLP) | Angels of Care Pediatric Home Health | Fort Worth, TX, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/angelsofcare/job/odc9BfwT) |
 | Licensed Vocational Nurse (LVN) – Pediatric Home Health | Angels of Care Pediatric Home Health | Fort Worth, TX, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/angelsofcare/job/oSg9BfwC) |
@@ -181,6 +187,7 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Hyperbaric Technologist - Hyperbaric Oxygen Therapist RT (Manistee & Traverse C... | Munson Healthcare | Manistee, Michigan, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990017098166) |
 | Nursing Technician - Substance Use - PT (.6) - Days | luminishealth | Annapolis, MD |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/luminishealth/jobs/5464999008?gh_jid=5464999008) |
 | Assessment Therapist | lighthousebehavioralhealthsolutions | Columbus, Ohio |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/lighthousebehavioralhealthsolutions/jobs/5494880008) |
+| Outpatient Physical Therapist | highbarhealth | Cranston, RI | $80k-100k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/highbarhealth/8781d0c5-4c97-4aa6-813a-110c74120beb) |
 | PRN Registered Dietitian | headlandsresearch | San Diego, California |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/headlandsresearch/jobs/4524171009) |
 | Personal Care Attendant | habitathealth | Sacramento, CA |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/habitathealth/jobs/5494930008) |
 | Pharmacist (Part Time) | greenthumbindustries | Lynchburg, Virginia, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/greenthumbindustries/jobs/8406789) |
@@ -198,13 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Behavior Therapist | annaautismcare | Wayland | $24-26/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/annaautismcare/ad89be40-5791-4f13-9d20-d5eb134f788a) |
 | Copy of Clinical Director, Woburn | annaautismcare | Woburn |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/annaautismcare/7f641470-2bdf-4a2b-9c6e-8c0441a8f5a1) |
 | Pre Licensed Therapist | Clarvida | Mojave, CA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/pathways/job/o2X9Bfwt) |
-| Medical Management Nurse\*\*RN's NEEDED\*\* | ANV Insurance | United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/openlending/job/o9t8Afw4) |
-| CNA-Hospice | Illuminus | West Bend, WI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693332) |
-| Certified Nursing Assistant (CNA) | Illuminus | Fond du Lac, WI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693837) |
-| Patient Services Representative | CareMetx | Remote Worker - N/A |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691324) |
-| Pharmacist (PS) | CareMetx | Brooks, KY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689702) |
-| Prevocational Direct Support Professional | ACHIEVE NY | Cortland, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693020) |
-| Prevocational Direct Support Professional - Community Based | ACHIEVE NY | Binghamton, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693023) |
 <!-- JOBS_TABLE_END -->
 
 <details>
