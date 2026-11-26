@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>66,381</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>66,219</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 04:17 UTC</sub>
+<sub>Snapshot 2026-11-26 08:18 UTC</sub>
 
 </div>
 
@@ -50,18 +50,21 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**66,381 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**66,219 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 08:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| PHLEBOTOMIST PT | A-Team Solutions LLC | Daytona Beach, FL, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eb23e9d0-0921-458b-9544-adc0f893a19b&ccId=19000101_000001&jobId=585933&lang=en_US&source=CC2) |
+| Patient Experience Coordinator (Onsite), Front Office Avondale Clinic | bcbsaz | Prosano Avondale 9321 West Thomas Rd Phoenix, AZ 85037 |  | 2026-11-26 | [Apply](https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/Prosano-Avondale-9321-West-Thomas-Rd-Phoenix-AZ-85037/Patient-Experience-Coordinator--Onsite---Front-Office-Avondale-Clinic_R6363) |
+| X-Ray Tech - The Jewish Hospital | easyservice | Cincinnati, OH |  | 2026-11-26 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/X-Ray-Tech---The-Jewish-Hospital_R293948) |
+| X Ray Tech - Weekend Option- The Jewish Hospital | easyservice | Cincinnati, OH |  | 2026-11-26 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/X-Ray-Tech---Weekend-Option--The-Jewish-Hospital_R293949) |
+| CT Technologist - Weekend Option- The Jewish Hospital | easyservice | Cincinnati, OH |  | 2026-11-26 | [Apply](https://easyservice.wd5.myworkdayjobs.com/en-US/mercyhealthcareers/job/Cincinnati-OH/CT-Technologist---Weekend-Option--The-Jewish-Hospital_R293950-1) |
+| Pharmacy Technician | CVS Health | CA - Los Angeles |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Technician_R1101716) |
 | Grad Intern - Global Medical Affairs Thoracic Oncology (Summer 2027) | amgen | United States - Remote |  | 2026-11-26 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Global-Medical-Affairs-Thoracic-Oncology--Summer-2027-_R-261965) |
 | (USA) Clinical Services Pharmacy Technician - Sam’s Club | Walmart | Douglasville, GA |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Douglasville-GA/XMLNAME--USA--Clinical-Services-Pharmacy-Technician---Sam-s-Club_R-2722245) |
 | (USA) Pharmacy Manager | Walmart | (USA) TX ROUND ROCK 00475 WM SUPERCENTER |  | 2026-11-26 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-TX-ROUND-ROCK-00475-WM-SUPERCENTER/XMLNAME--USA--Pharmacy-Manager_R-2721748) |
 | Pharmacy Intern - Grad | CVS Health | DC - Washington |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/DC---Washington/Pharmacy-Intern---Grad_R1115407) |
 | Pharmacy Technician | CVS Health | AL - Gadsden |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Gadsden/Pharmacy-Technician_R1114137) |
-| Pharmacy Technician | CVS Health | MS - Oxford |  | 2026-11-26 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MS---Oxford/Pharmacy-Technician_R1114065) |
 | Clinic Medical Assistant (MA-C) - Orthopedics - Full Time (40 hours/week) | KittitasValleyHealthcare | Ellensburg, WA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/KittitasValleyHealthcare/744000163776495) |
 | Front Line(08870) - 2410 DeKalb Medical Pkwy | Domino's | Lithonia, GA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163790890) |
 | Speech-Language Pathologist | expressable | Maryland | $40-54/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/expressable/14b92e42-03a8-42f8-8ebe-8b0105bc27e5) |
@@ -101,13 +104,26 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Advanced Practice Clinician/RNFA for Cardiac Surgery | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-26 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Advanced-Practice-Clinician-RNFA-for-Cardiac-Surgery_REQ-0040277) |
 | Remote Optometrist | National Vision | Roseville, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775064) |
 | Remote Optometrist | National Vision | Stratford, CT, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775699) |
+| Surgery Scheduler/Surgery Counselor | Ascend Vision Partners | Winter Haven, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4563141) |
+| Dental Hygienist | Appalachian Mountain Community Health Centers | Black Mountain, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681346) |
+| Practice Supervisor - Medical | Appalachian Mountain Community Health Centers | Black Mountain, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681208) |
+| Physical Therapist PRN | Exalt Health Rehabilitation Hospital WP | Venice, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693309) |
+| Dental Assistant/PRN | Heritage Health | Coeur d'Alene, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686656) |
+| Dental Assistant /$2,500 Bonus/Part-Time | Heritage Health | Coeur d'Alene, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686641) |
+| Dental Assistant /$5,000 Bonus/Full-Time | Heritage Health | Coeur d'Alene, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686619) |
+| Behavioral Health Technician Supervisor | SunCloud Health | Bellevue, WA, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fe48f5fe-3ab2-456b-8a56-30904789c101&ccId=19000101_000001&jobId=592599&lang=en_US&source=CC2) |
+| Part Time Patient Care Coordinator | Professional Physical Therapy | Brooklyn Heights, New York, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/BB298FD132) |
+| Personal Care Attendant West San Antonio | Pride PHC Services | San Antonio, Texas, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/928E7C0478) |
+| Personal Care Attendant | Pride PHC Services | Pearsall, Texas, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/91819B4C1D) |
+| Experienced Personal Care Attendant-78230 | Pride PHC Services | San Antonio, Texas, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/875A5113CB) |
+| Veteran Caregiver Part Time Afternoons | Phoenix Home Care and Hospice | Sweet Springs, Missouri, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/163FAE9967) |
+| Veteran Caregiver Part Time | Phoenix Home Care and Hospice | Vandalia, Missouri, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/E6EBAAD241) |
+| Part Time Weekend Caregiver | Phoenix Home Care and Hospice | Jefferson City, Missouri, US |  | 2026-11-25 | [Apply](https://apply.workable.com/j/D35B9931C4) |
+| Float Advanced Practice Clinician | pplm | Central MA | $54.59/hr | 2026-11-25 | [Apply](https://jobs.lever.co/pplm/3c2b7956-7f74-42eb-b173-1ecdad3619f4) |
 | Direct Support Professional (DSP) Adult Training for Intellectual Disabilities... | Skills of Central Pennsylvania Inc | Altoona, PA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693080) |
 | Pharmacy Buyer/Tech - Per Diem | St. James Hospital | Hornell, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4407137) |
 | Referral Coordinator | greenbrookmedical | New Port Richey, FL |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5495094008) |
 | Behavioral Health Care Coordinator / Scheduler | ennoblecare | Oklahoma City, OK |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ennoblecare/jobs/4732393006) |
-| Therapist (LICSW, LMHC,LMFT) | lifestance | Lynnfield, MA |  | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/c8644aac-170d-4f91-9506-9ed884b29416) |
-| Therapist (LICSW, LMHC, LMFT)- Child or Adult | lifestance | Quincy, MA | $75k-100k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/2d9ce43e-c2c4-43cb-b293-c8b3dcd06d37) |
-| Therapist (LICSW, LMHC, LMFT) | lifestance | Groton, MA | $75k-100k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/lifestance/32924cd0-83a0-4cea-85b1-e6196af52cf3) |
 | Licensed Dental Assistant | Clear Lakes Dental Franchise | Columbus, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694463) |
 | Unlicensed Dental Assitant | Clear Lakes Dental Franchise | Polaris-OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693639) |
 | Patient Care Coordinator | Clear Lakes Dental Franchise | Columbus, OH |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693618) |
@@ -189,22 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Clinical Trial Manager RWLP | syneoshealth | USA-NC-Remote |  | 2026-11-25 | [Apply](https://syneoshealth.wd12.myworkdayjobs.com/en-US/syneos_health_external_site/job/USA-NC-Remote/Clinical-Trial-Manager-RWLP_25114959) |
 | RN - Medical ICU | carilionclinic | Roanoke, Virginia |  | 2026-11-25 | [Apply](https://carilionclinic.wd12.myworkdayjobs.com/en-US/external_careers/job/Roanoke-Virginia/RN---Medical-ICU_R161291-1) |
 | RN I - Medical ICU | carilionclinic | Roanoke, Virginia |  | 2026-11-25 | [Apply](https://carilionclinic.wd12.myworkdayjobs.com/en-US/external_careers/job/Roanoke-Virginia/RN-I---Medical-ICU_R161585) |
-| Surgical Tech - Certified - Operating Room | carilionclinic | Roanoke, Virginia |  | 2026-11-25 | [Apply](https://carilionclinic.wd12.myworkdayjobs.com/en-US/external_careers/job/Roanoke-Virginia/Surgical-Tech---Certified---Operating-Room_R163200) |
-| Summer Intern, Translational Medicine & Clinical Pharmacology – Pharmacometrics | bristolmyerssquibb | 2 Locations |  | 2026-11-25 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Summer-Intern--Translational-Medicine---Clinical-Pharmacology---Pharmacometrics_R1608944) |
-| Summer Intern, Translational Medicine & Clinical Pharmacology – Pharmacometrics | bristolmyerssquibb | 2 Locations |  | 2026-11-25 | [Apply](https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Summer-Intern--Translational-Medicine---Clinical-Pharmacology---Pharmacometrics_R1608952) |
-| New Graduate RN Residency, Cardiac/ Medical IMCU, Nights (March 2027) | bmc | Boston |  | 2026-11-25 | [Apply](https://bmc.wd1.myworkdayjobs.com/en-US/bmc/job/Boston/New-Graduate-RN-Residency--Cardiac--Medical-IMCU--Nights--March-2027-_51754) |
-| New Graduate RN Residency, Cardiac/ Medical IMCU, Nights (March 2027) | bmc | Boston |  | 2026-11-25 | [Apply](https://bmc.wd1.myworkdayjobs.com/en-US/bmc/job/Boston/New-Graduate-RN-Residency--Cardiac--Medical-IMCU--Nights--March-2027-_51753) |
-| Authorization Representative Wound and Plastic Surgery Clinic | bannerhealth | BUMC Phoenix (1111 E McDowell Rd) |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Authorization-Representative-Wound-and-Plastic-Surgery-Clinic_R4458635-1) |
-| Health Unit Coordinator PCU Surgical | bannerhealth | BUMC Phoenix (1111 E McDowell Rd) |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Health-Unit-Coordinator-PCU-Surgical_R4462136-1) |
-| Certified Patient Care Assistant CNA LNA Progressive Care Unit | bannerhealth | BUMC South Tucson (2800 E Ajo Way) |  | 2026-11-25 | [Apply](https://bannerhealth.wd108.myworkdayjobs.com/en-US/careers/job/BUMC-South-Tucson-2800-E-Ajo-Way/Certified-Patient-Care-Assistant-CNA-LNA-Progressive-Care-Unit_R4461599) |
-| Clinical Staff Pharmacist - Day/Evening Rotation Sign on Bonus | bhs | Paducah, KY |  | 2026-11-25 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Paducah-KY/Clinical-Staff-Pharmacist---Day-Evening-Rotation-Sign-on-Bonus_R26110442) |
-| Patient Care Technician - PCT - Surgery - FT | Sanford Health | SD, Sioux Falls |  | 2026-11-25 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/SD-Sioux-Falls/Patient-Care-Technician---PCT---Surgery---FT_R-0281659) |
-| NA - Nursing Assistant - Med Surge & Ortho - PT | Sanford Health | MN, Bemidji |  | 2026-11-25 | [Apply](https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/MN-Bemidji/NA---Nursing-Assistant---Med-Surge---Ortho---PT_R-0282471-1) |
-| Phlebotomist Float | Labcorp | Redondo Beach CA |  | 2026-11-25 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Redondo-Beach-CA/Phlebotomist-Float_2637365) |
-| Medical Lab Technciain | Labcorp | Portland OR |  | 2026-11-25 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Portland-OR/Medical-Lab-Technciain_2642249) |
-| IOP Phlebotomist | Labcorp | Auburn AL |  | 2026-11-25 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Auburn-AL/IOP-Phlebotomist_2641441) |
-| Patient Access Representative (Full Time - Days) Frankford Outpatient | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-25 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Patient-Access-Representative--Full-Time---Days--Frankford-Outpatient_REQ-0040738) |
-| Speech Language Pathologist - UW Medical Center - Montlake (Per Diem, Days) | University of Washington | Seattle, WA |  | 2026-11-25 | [Apply](https://uw.wd5.myworkdayjobs.com/en-US/UWHires/job/Seattle-WA/Speech-Language-Pathologist---UW-Medical-Center---Montlake--Per-Diem--Days-_REQ-0000138766-2) |
 <!-- JOBS_TABLE_END -->
 
 <details>
