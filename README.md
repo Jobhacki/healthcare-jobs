@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>64,874</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>63,954</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 08:17 UTC</sub>
+<sub>Snapshot 2026-11-27 12:17 UTC</sub>
 
 </div>
 
@@ -50,21 +50,18 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**64,874 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**63,954 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Medical Scribe | CVS Health | RI - Providence |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Providence/Clinical-Informatics-Specialist_R1112841) |
 | PRN Occupational Therapist Acute care | bhs | Louisville, KY |  | 2026-11-27 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Louisville-KY/PRN-Occupational-Therapist--Acute-care_R26110311) |
 | Pharmacy Technician | brownhealth | Rhode Island Hospital |  | 2026-11-27 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Pharmacy-Technician_JR-116152) |
 | Pharmacy Technician, Inpatient | brownhealth | Rhode Island Hospital |  | 2026-11-27 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Pharmacy-Technician--Inpatient_JR-116153) |
 | Medical Assistant Ambulatory | brownhealth | Rhode Island Hospital |  | 2026-11-27 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Medical-Assistant-Ambulatory_JR-116493-1) |
 | Pharmacy Technician | CVS Health | NJ - Kearny |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Kearny/Pharmacy-Technician_R1115251) |
 | Pharmacy Technician | CVS Health | MD - Reisterstown |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Reisterstown/Pharmacy-Technician_R1115209) |
-| Pharmacy Technician | CVS Health | FL - Tampa |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Tampa/Pharmacy-Technician_R1115472) |
-| Registered Begavioral Technician (RBT) | Apexaba | Mebane, NC | $24-28/hr | 2026-11-26 | [Apply](https://jobs.lever.co/apexaba/a0aa792f-3ad7-4abf-a63a-e019802021c9) |
-| Registered Begavioral Technician (RBT) | Apexaba | Lumberton, NC | $24-28/hr | 2026-11-26 | [Apply](https://jobs.lever.co/apexaba/72e4f269-c693-447f-a99a-02218b2b717f) |
-| Registered Begavioral Technician (RBT) | Apexaba | Greenville, NC | $24-28/hr | 2026-11-26 | [Apply](https://jobs.lever.co/apexaba/56c8a542-69fc-481e-a198-6889498b92ef) |
 | CNA's for Home Care | bayada | Gastonia, NC 28053 / 35.26375 / -81.185888 |  | 2026-11-26 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8963791002) |
 | Radiologic Technologist | gohealthuc | Mechanicsburg - Mechanicsburg, PA |  | 2026-11-26 | [Apply](https://gohealthuc.wd12.myworkdayjobs.com/en-US/external/job/Mechanicsburg---Mechanicsburg-PA/Radiologic-Technologist_JR113369) |
 | Radiologic Technologist | gohealthuc | Carlisle - Carlisle, PA |  | 2026-11-26 | [Apply](https://gohealthuc.wd12.myworkdayjobs.com/en-US/external/job/Carlisle---Carlisle-PA/Radiologic-Technologist_JR113370) |
@@ -121,6 +118,9 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Advanced Practice Clinician/RNFA for Cardiac Surgery | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-26 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Advanced-Practice-Clinician-RNFA-for-Cardiac-Surgery_REQ-0040277) |
 | Remote Optometrist | National Vision | Roseville, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775064) |
 | Remote Optometrist | National Vision | Stratford, CT, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775699) |
+| Outpatient Counselor | Cumberland Heights Foundation, Inc. | CLARKSVILLE, TN |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693553) |
+| Medical Assistants (MA / CMA / RMA) - Multiple Openings | Tanner Memorial Clinic | Layton, UT |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694834) |
+| Patient Care Technician | imh | Intermountain Health Utah Valley Hospital |  | 2026-11-25 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Intermountain-Health-Utah-Valley-Hospital/Patient-Care-Technician_R186269) |
 | Certified Caregiver (Double Weekends) | Tarantino Properties Inc | Chandler, AZ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694440) |
 | Certified Med Tech (Double Weekends) | Tarantino Properties Inc | Chandler, AZ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694444) |
 | Certified Medical Assistant Float | Carolina Health Centers, Inc. | Greenwood, SC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2978209) |
@@ -154,7 +154,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Medical Assistant | Northwell Health | Brooklyn, Kings, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204328) |
 | Constant Patient Observer Full Time / 2nd shift/ Overnight / $24/hr | Securitas | Providence, RI, United States |  | 2026-11-25 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177640) |
 | Surgical Clinical Adoption Manager - New York | Hologic | New York, NY, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12813) |
-| Occupational Therapist (Hand Therapist) - Astoria | spear | Astoria, New York | $88k-120k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/spear/78ae3bd9-9ec1-4869-b33d-991561d509b7) |
 | Surgery Scheduler/Surgery Counselor | Ascend Vision Partners | Winter Haven, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4563141) |
 | Dental Hygienist | Appalachian Mountain Community Health Centers | Black Mountain, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681346) |
 | Practice Supervisor - Medical | Appalachian Mountain Community Health Centers | Black Mountain, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681208) |
@@ -205,6 +204,7 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Certified Home Health Aide (Hunterdon / Warren County, NJ) | ennoblecare | Hunterdon / Warren County, NJ |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ennoblecare/jobs/4732329006) |
 | Leave Replacement - School-Based Mental Health Clinician/Social Worker | effectiveschoolsolutions | Cromwell, Connecticut |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/effectiveschoolsolutions/jobs/4758757005) |
 | New Grad - Physician Assistant (PA) - Urgent Care | convenientmd | Nashua, New Hampshire, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/convenientmd/jobs/5495012008) |
+| New Grad - Physician Assistant (PA) - Urgent Care | convenientmd | Ludlow, Massachusetts, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/convenientmd/jobs/5495016008) |
 <!-- JOBS_TABLE_END -->
 
 <details>
