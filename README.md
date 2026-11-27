@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>65,905</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>64,874</h3><sub>open healthcare jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-27</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 04:17 UTC</sub>
+<sub>Snapshot 2026-11-27 08:17 UTC</sub>
 
 </div>
 
@@ -50,15 +50,21 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 
 ## Open jobs
 
-**65,905 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**64,874 open healthcare jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Pharmacy Technician | CVS Health | CA - Placentia |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Placentia/Pharmacy-Technician_R1115226) |
-| Pharmacy Technician | CVS Health | CA - El Centro |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---El-Centro/Pharmacy-Technician_R1115314) |
-| Pharmacy Technician | CVS Health | TX - League City |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---League-City/Pharmacy-Technician_R1115414) |
-| Certified Nursing Assistant | ADP employer 39292f9e | Naples, FL, US |  | 2026-11-26 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=39292f9e-dfa5-4569-8bf5-3db9abba55aa&ccId=19000101_000001&jobId=578775&lang=en_US&source=CC2) |
+| PRN Occupational Therapist Acute care | bhs | Louisville, KY |  | 2026-11-27 | [Apply](https://bhs.wd1.myworkdayjobs.com/en-US/careers/job/Louisville-KY/PRN-Occupational-Therapist--Acute-care_R26110311) |
+| Pharmacy Technician | brownhealth | Rhode Island Hospital |  | 2026-11-27 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Pharmacy-Technician_JR-116152) |
+| Pharmacy Technician, Inpatient | brownhealth | Rhode Island Hospital |  | 2026-11-27 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Pharmacy-Technician--Inpatient_JR-116153) |
+| Medical Assistant Ambulatory | brownhealth | Rhode Island Hospital |  | 2026-11-27 | [Apply](https://brownhealth.wd12.myworkdayjobs.com/en-US/external_careers/job/Rhode-Island-Hospital/Medical-Assistant-Ambulatory_JR-116493-1) |
+| Pharmacy Technician | CVS Health | NJ - Kearny |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Kearny/Pharmacy-Technician_R1115251) |
+| Pharmacy Technician | CVS Health | MD - Reisterstown |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Reisterstown/Pharmacy-Technician_R1115209) |
+| Pharmacy Technician | CVS Health | FL - Tampa |  | 2026-11-27 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Tampa/Pharmacy-Technician_R1115472) |
+| Registered Begavioral Technician (RBT) | Apexaba | Mebane, NC | $24-28/hr | 2026-11-26 | [Apply](https://jobs.lever.co/apexaba/a0aa792f-3ad7-4abf-a63a-e019802021c9) |
+| Registered Begavioral Technician (RBT) | Apexaba | Lumberton, NC | $24-28/hr | 2026-11-26 | [Apply](https://jobs.lever.co/apexaba/72e4f269-c693-447f-a99a-02218b2b717f) |
+| Registered Begavioral Technician (RBT) | Apexaba | Greenville, NC | $24-28/hr | 2026-11-26 | [Apply](https://jobs.lever.co/apexaba/56c8a542-69fc-481e-a198-6889498b92ef) |
 | CNA's for Home Care | bayada | Gastonia, NC 28053 / 35.26375 / -81.185888 |  | 2026-11-26 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8963791002) |
 | Radiologic Technologist | gohealthuc | Mechanicsburg - Mechanicsburg, PA |  | 2026-11-26 | [Apply](https://gohealthuc.wd12.myworkdayjobs.com/en-US/external/job/Mechanicsburg---Mechanicsburg-PA/Radiologic-Technologist_JR113369) |
 | Radiologic Technologist | gohealthuc | Carlisle - Carlisle, PA |  | 2026-11-26 | [Apply](https://gohealthuc.wd12.myworkdayjobs.com/en-US/external/job/Carlisle---Carlisle-PA/Radiologic-Technologist_JR113370) |
@@ -115,6 +121,11 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Advanced Practice Clinician/RNFA for Cardiac Surgery | Jefferson Health | Northeast Philadelphia, PA |  | 2026-11-26 | [Apply](https://jeffersonhealth.wd5.myworkdayjobs.com/en-US/ThomasJeffersonExternal/job/Northeast-Philadelphia-PA/Advanced-Practice-Clinician-RNFA-for-Cardiac-Surgery_REQ-0040277) |
 | Remote Optometrist | National Vision | Roseville, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775064) |
 | Remote Optometrist | National Vision | Stratford, CT, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/NationalVision1/744000163775699) |
+| Certified Caregiver (Double Weekends) | Tarantino Properties Inc | Chandler, AZ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694440) |
+| Certified Med Tech (Double Weekends) | Tarantino Properties Inc | Chandler, AZ |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694444) |
+| Certified Medical Assistant Float | Carolina Health Centers, Inc. | Greenwood, SC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2978209) |
+| Certified Medical Assistant | Carolina Health Centers, Inc. | Waterloo, SC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2864409) |
+| Medical Assistant | Empower Aesthetics | Loudonville, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677082) |
 | Medical Assistant - Urology | FLORIDA UROLOGY PARTNERS LLP | Hudson, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694374) |
 | Surgical Assistant | Mia Aesthetics Services | Austin, TX |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694619) |
 | Operating Room RN – Outpatient Eye Surgery Center | Acuity Eye Group | Santa Ana, CA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694125) |
@@ -143,6 +154,7 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Medical Assistant | Northwell Health | Brooklyn, Kings, United States |  | 2026-11-25 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204328) |
 | Constant Patient Observer Full Time / 2nd shift/ Overnight / $24/hr | Securitas | Providence, RI, United States |  | 2026-11-25 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177640) |
 | Surgical Clinical Adoption Manager - New York | Hologic | New York, NY, United States |  | 2026-11-25 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12813) |
+| Occupational Therapist (Hand Therapist) - Astoria | spear | Astoria, New York | $88k-120k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/spear/78ae3bd9-9ec1-4869-b33d-991561d509b7) |
 | Surgery Scheduler/Surgery Counselor | Ascend Vision Partners | Winter Haven, FL |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4563141) |
 | Dental Hygienist | Appalachian Mountain Community Health Centers | Black Mountain, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681346) |
 | Practice Supervisor - Medical | Appalachian Mountain Community Health Centers | Black Mountain, NC |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681208) |
@@ -150,7 +162,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Dental Assistant/PRN | Heritage Health | Coeur d'Alene, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686656) |
 | Dental Assistant /$2,500 Bonus/Part-Time | Heritage Health | Coeur d'Alene, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686641) |
 | Dental Assistant /$5,000 Bonus/Full-Time | Heritage Health | Coeur d'Alene, ID |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686619) |
-| Float Advanced Practice Clinician | pplm | Central MA | $54.59/hr | 2026-11-25 | [Apply](https://jobs.lever.co/pplm/3c2b7956-7f74-42eb-b173-1ecdad3619f4) |
 | Direct Support Professional (DSP) Adult Training for Intellectual Disabilities... | Skills of Central Pennsylvania Inc | Altoona, PA |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693080) |
 | Pharmacy Buyer/Tech - Per Diem | St. James Hospital | Hornell, NY |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4407137) |
 | Referral Coordinator | greenbrookmedical | New Port Richey, FL |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/greenbrookmedical/jobs/5495094008) |
@@ -194,17 +205,6 @@ Explore clinical, caregiving, and medical office roles in this fresh slice of jo
 | Certified Home Health Aide (Hunterdon / Warren County, NJ) | ennoblecare | Hunterdon / Warren County, NJ |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/ennoblecare/jobs/4732329006) |
 | Leave Replacement - School-Based Mental Health Clinician/Social Worker | effectiveschoolsolutions | Cromwell, Connecticut |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/effectiveschoolsolutions/jobs/4758757005) |
 | New Grad - Physician Assistant (PA) - Urgent Care | convenientmd | Nashua, New Hampshire, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/convenientmd/jobs/5495012008) |
-| New Grad - Physician Assistant (PA) - Urgent Care | convenientmd | Ludlow, Massachusetts, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/convenientmd/jobs/5495016008) |
-| New Grad - Physician Assistant (PA) - Urgent Care | convenientmd | Agawam, Massachusetts, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/convenientmd/jobs/5494958008) |
-| Mental Health Therapist (Full Time, BED) | connectionshealthsolutions | Phoenix, Arizona, United States |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4524422009) |
-| CA Remote Mental Health Therapist | meetmarvin | CA | $60-80/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/meetmarvin/fddd2408-9ca6-48a6-8e7d-c1af1b8cb89a) |
-| RN Home Health Manager | bayada | Falls Church, VA 22041 / 38.847800041 / -77.130925506 |  | 2026-11-25 | [Apply](https://jobs.bayada.com/en/jobs?gh_jid=8962976002) |
-| Registered Behavior Technician (RBT) | Finni Health | New Castle, Indiana | $18-23/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/finni-health/26a5f403-05b5-42c1-917a-0344ab074197) |
-| Clinical Director, Braintree | annaautismcare | Braintree |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/annaautismcare/7364a5a2-f838-4658-88e7-c4b72ccabbf7) |
-| Behavior Therapist | annaautismcare | Wayland | $24-26/hr | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/annaautismcare/ad89be40-5791-4f13-9d20-d5eb134f788a) |
-| Copy of Clinical Director, Woburn | annaautismcare | Woburn |  | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/annaautismcare/7f641470-2bdf-4a2b-9c6e-8c0441a8f5a1) |
-| Pre Licensed Therapist | Clarvida | Mojave, CA, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/pathways/job/o2X9Bfwt) |
-| Medical Management Nurse\*\*RN's NEEDED\*\* | ANV Insurance | United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/openlending/job/o9t8Afw4) |
 <!-- JOBS_TABLE_END -->
 
 <details>
